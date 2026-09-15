@@ -1,0 +1,93 @@
+table _Measures
+	lineageTag: measures-table
+
+	measure 'Average Coverage' = AVERAGE ( FactCoverage[coverage_pct] )
+
+	measure 'Coverage Gap (95pct target)' = [Average Coverage] - 95
+		formatString: 0.0
+
+	measure 'Countries Below Target' = CALCULATE (
+			DISTINCTCOUNT ( FactCoverage[iso3] ),
+			FactCoverage[coverage_pct] < 95
+		)
+		formatString: 0
+
+	measure 'YoY Coverage Change' = VAR CurrentAvg = [Average Coverage]
+		VAR PriorAvg =
+			CALCULATE (
+				[Average Coverage],
+				DimYear[year] = SELECTEDVALUE ( DimYear[year] ) - 1
+			)
+		RETURN
+			DIVIDE ( CurrentAvg - PriorAvg, PriorAvg )
+		formatString: 0.00%
+
+	measure 'Total Reported Cases' = SUM ( FactCases[cases] )
+		formatString: #,0
+
+	measure 'Average Incidence Rate' = AVERAGE ( FactIncidence[incidence_rate] )
+		formatString: 0.00
+
+	measure 'Disease Case Change pct' = VAR CurrentCases = [Total Reported Cases]
+		VAR PriorCases =
+			CALCULATE (
+				[Total Reported Cases],
+				DimYear[year] = SELECTEDVALUE ( DimYear[year] ) - 1
+			)
+		RETURN
+			DIVIDE ( CurrentCases - PriorCases, PriorCases )
+		formatString: 0.00%
+
+	measure 'DTP1 Coverage' = CALCULATE ( [Average Coverage], FactCoverage[antigen_code] = "DTP1" )
+		formatString: 0.0
+
+	measure 'DTP3 Coverage' = CALCULATE ( [Average Coverage], FactCoverage[antigen_code] = "DTP3" )
+		formatString: 0.0
+
+	measure 'Dose Dropoff Rate DTP1 to DTP3' = DIVIDE ( [DTP1 Coverage] - [DTP3 Coverage], [DTP1 Coverage] )
+		formatString: 0.00%
+
+	measure 'MCV1 Coverage' = CALCULATE ( [Average Coverage], FactCoverage[antigen_code] = "MCV1" )
+		formatString: 0.0
+
+	measure 'MCV2 Coverage' = CALCULATE ( [Average Coverage], FactCoverage[antigen_code] = "MCV2" )
+		formatString: 0.0
+
+	measure 'Booster Uptake MCV2' = [MCV2 Coverage]
+		formatString: 0.0
+
+	measure 'Target Achievement pct MCV1 95' = VAR EligibleCountries =
+			CALCULATE (
+				DISTINCTCOUNT ( FactCoverage[iso3] ),
+				FactCoverage[antigen_code] = "MCV1"
+			)
+		VAR AtTarget =
+			CALCULATE (
+				DISTINCTCOUNT ( FactCoverage[iso3] ),
+				FactCoverage[antigen_code] = "MCV1",
+				FactCoverage[coverage_pct] >= 95
+			)
+		RETURN
+			DIVIDE ( AtTarget, EligibleCountries )
+		formatString: 0.00%
+
+	measure 'Measles 95pct Target Gap' = CALCULATE ( [Coverage Gap (95pct target)], FactCoverage[antigen_code] = "MCV1" )
+		formatString: 0.0
+
+	column Column1
+		dataType: string
+		isHidden
+		summarizeBy: none
+		sourceColumn: Column1
+
+	partition _Measures = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [Column1 = text], {})
+				in
+				    Source
+
+annotation PBI_ResultType = Table
+
+annotation PBI_NavigationStepName = Navigation

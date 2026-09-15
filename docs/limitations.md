@@ -100,9 +100,15 @@
   equivalent SQLite database, not executed against a live PostgreSQL
   server** (PostgreSQL was not available in the build environment) — see
   `docs/database_schema.md`.
-- **No `.pbix` file exists** — Power BI Desktop was not available in the
-  build environment and has no programmatic write path. Full
-  reproduction instructions are in `powerbi/README.md`.
+- **No `.pbix` file exists, and the PBIP project has not been opened in
+  Power BI Desktop.** `powerbi/pbip/VaccinationAnalytics.pbip` is a
+  real, hand-authored TMDL semantic model (tables, relationships, all 11
+  measures) plus an empty 7-page report shell. It was checked for valid
+  JSON, consistent TMDL tab-indentation, and correct file-path escaping,
+  but this environment has no Windows desktop UI automation, so it could
+  not be opened in Desktop to confirm it loads without error. Treat the
+  first real open as a validation step, not a guarantee. See
+  `powerbi/README.md`.
 - Correlation coefficients (Pearson and Spearman) are reported together
   because several relationships in this domain are monotonic without
   being linear; neither coefficient implies causation.

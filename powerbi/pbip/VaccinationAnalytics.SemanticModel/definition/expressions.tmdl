@@ -1,0 +1,6 @@
+expression RepoRootPath = "C:\Users\YOUR_USERNAME\path\to\vaccination-data-analytics" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: repo-root-path-parameter
+	annotation PBI_ResultType = Text
+
+	annotation PBI_NavigationStepName = Navigation
+

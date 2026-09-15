@@ -114,10 +114,15 @@ Full ER diagram, grain, and constraint list:
 
 ## Power BI Dashboard
 
-No `.pbix` file is included — Power BI Desktop was not available in the
-build environment and the format has no programmatic write path (see
-[`powerbi/README.md`](powerbi/README.md) for the full explanation). What
-is included is everything needed to build it in under an hour:
+[`powerbi/pbip/VaccinationAnalytics.pbip`](powerbi/pbip/VaccinationAnalytics.pbip)
+is a real Power BI Project (TMDL semantic model — all 10 tables, 15
+relationships, 11 measures — plus a 7-page report shell), openable
+directly in Power BI Desktop. It has not been opened/verified in Desktop
+in this environment (no desktop UI automation available here — see
+[`powerbi/README.md`](powerbi/README.md) for the honest caveat and
+open-it-yourself instructions). No `.pbix` is included, since producing
+one requires Desktop's File → Save As. The report pages are empty
+canvases; everything needed to fill them in is
 [`powerbi/data_model.md`](powerbi/data_model.md) (star schema, matches the
 SQL model), [`powerbi/dax_measures.md`](powerbi/dax_measures.md) (11
 measures, each mapped to a specific requirement), and
@@ -165,7 +170,7 @@ quality / geographic / temporal / methodological limitation:
 ## Tech Stack
 
 Python (pandas, NumPy, SciPy, matplotlib, seaborn), Jupyter, pytest,
-PostgreSQL, Power BI (specification only — see above).
+PostgreSQL, Power BI (PBIP project + specification — see above).
 
 ## Project Structure
 
@@ -178,7 +183,7 @@ vaccination-data-analytics/
 ├── src/                Pipeline modules (fetch, generate, load, clean, validate, transform)
 ├── tests/              pytest coverage for cleaning/validation/transformations
 ├── sql/                01-07: database, schema, constraints, indexes, load, queries, views
-├── powerbi/            Data model, DAX measures, dashboard spec (no .pbix — see powerbi/README.md)
+├── powerbi/            pbip/ project (TMDL model, unverified), data model, DAX measures, dashboard spec
 ├── reports/            Data quality, EDA findings, analysis results, public health insights
 └── docs/                Architecture, methodology, data dictionary, database schema, limitations
 ```
@@ -213,10 +218,14 @@ psql -d vaccination_analytics -f sql/07_views.sql
 
 ## Power BI Setup
 
-See [`powerbi/README.md`](powerbi/README.md) for the full reproduction
-steps (connect to the 6 views in `sql/07_views.sql`, build the
-relationships in `data_model.md`, add the measures in `dax_measures.md`,
-build the pages in `dashboard_specification.md`).
+Open [`powerbi/pbip/VaccinationAnalytics.pbip`](powerbi/pbip/VaccinationAnalytics.pbip)
+in Power BI Desktop, set the `RepoRootPath` parameter to your local clone
+path, and refresh — the full data model and all 11 measures load
+directly. See [`powerbi/README.md`](powerbi/README.md) for exact steps
+and the one honest caveat (this wasn't opened/verified in this
+environment). Then build the visuals per
+[`dashboard_specification.md`](powerbi/dashboard_specification.md) and
+save as `.pbix`.
 
 ## Reproducibility
 
@@ -234,8 +243,9 @@ everything from scratch.
 - Execute `sql/01`–`07` against a live PostgreSQL instance as a final
   check (validated so far via an equivalent SQLite database — see
   `docs/methodology.md`).
-- Build the actual `.pbix` file in Power BI Desktop from the specification
-  in `powerbi/`.
+- Open `powerbi/pbip/VaccinationAnalytics.pbip` in Desktop, fix anything
+  that doesn't load cleanly (untested in this environment), build the
+  visuals, and save as `.pbix`.
 
 ## License
 

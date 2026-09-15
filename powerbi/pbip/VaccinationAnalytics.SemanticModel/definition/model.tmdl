@@ -1,0 +1,20 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+ref table DimCountry
+ref table DimYear
+ref table DimAntigen
+ref table DimDisease
+ref table DimVaccine
+ref table FactCoverage
+ref table FactCases
+ref table FactIncidence
+ref table FactIntroduction
+ref table FactSchedule
+ref table _Measures
+
+ref expression RepoRootPath

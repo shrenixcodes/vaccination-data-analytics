@@ -1,0 +1,35 @@
+table DimCountry
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column country_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: country_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column who_region
+		dataType: string
+		summarizeBy: none
+		sourceColumn: who_region
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimCountry = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\raw\who_country_reference.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"ISO3", type text}, {"Country_Name", type text}, {"WHO_Region", type text}}),
+				    Renamed = Table.RenameColumns(Typed, {{"ISO3", "iso3"}, {"Country_Name", "country_name"}, {"WHO_Region", "who_region"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table

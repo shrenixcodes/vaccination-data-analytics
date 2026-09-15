@@ -1,0 +1,60 @@
+relationship rel_coverage_country
+	fromColumn: FactCoverage.iso3
+	toColumn: DimCountry.iso3
+
+relationship rel_coverage_year
+	fromColumn: FactCoverage.year
+	toColumn: DimYear.year
+
+relationship rel_coverage_antigen
+	fromColumn: FactCoverage.antigen_code
+	toColumn: DimAntigen.antigen_code
+
+relationship rel_cases_country
+	fromColumn: FactCases.iso3
+	toColumn: DimCountry.iso3
+
+relationship rel_cases_year
+	fromColumn: FactCases.year
+	toColumn: DimYear.year
+
+relationship rel_cases_disease
+	fromColumn: FactCases.disease_code
+	toColumn: DimDisease.disease_code
+
+relationship rel_incidence_country
+	fromColumn: FactIncidence.iso3
+	toColumn: DimCountry.iso3
+
+relationship rel_incidence_year
+	fromColumn: FactIncidence.year
+	toColumn: DimYear.year
+
+relationship rel_incidence_disease
+	fromColumn: FactIncidence.disease_code
+	toColumn: DimDisease.disease_code
+
+relationship rel_introduction_country
+	fromColumn: FactIntroduction.iso3
+	toColumn: DimCountry.iso3
+
+relationship rel_introduction_year
+	isActive: false
+	fromColumn: FactIntroduction.year
+	toColumn: DimYear.year
+
+relationship rel_introduction_vaccine
+	fromColumn: FactIntroduction.vaccine_code
+	toColumn: DimVaccine.vaccine_code
+
+relationship rel_schedule_country
+	fromColumn: FactSchedule.iso3
+	toColumn: DimCountry.iso3
+
+relationship rel_schedule_year
+	fromColumn: FactSchedule.year
+	toColumn: DimYear.year
+
+relationship rel_schedule_vaccine
+	fromColumn: FactSchedule.vaccine_code
+	toColumn: DimVaccine.vaccine_code

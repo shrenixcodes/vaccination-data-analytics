@@ -1,0 +1,43 @@
+table FactIntroduction
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column vaccine_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: vaccine_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column intro
+		dataType: string
+		summarizeBy: none
+		sourceColumn: intro
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FactIntroduction = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_vaccine_introduction.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Selected = Table.SelectColumns(Promoted, {"ISO_3_Code", "Vaccine_code", "Year", "Intro"}),
+				    Typed = Table.TransformColumnTypes(Selected, {{"ISO_3_Code", type text}, {"Vaccine_code", type text}, {"Year", Int64.Type}, {"Intro", type text}}),
+				    Renamed = Table.RenameColumns(Typed, {{"ISO_3_Code", "iso3"}, {"Vaccine_code", "vaccine_code"}, {"Year", "year"}, {"Intro", "intro"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table

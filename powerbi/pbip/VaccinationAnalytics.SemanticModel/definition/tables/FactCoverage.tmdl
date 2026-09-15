@@ -1,0 +1,57 @@
+table FactCoverage
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column antigen_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: antigen_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column coverage_category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: coverage_category
+
+		annotation SummarizationSetBy = Automatic
+
+	column coverage_category_description
+		dataType: string
+		summarizeBy: none
+		sourceColumn: coverage_category_description
+
+		annotation SummarizationSetBy = Automatic
+
+	column coverage_pct
+		dataType: double
+		summarizeBy: none
+		sourceColumn: coverage_pct
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FactCoverage = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_coverage.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Selected = Table.SelectColumns(Promoted, {"Code", "Year", "Antigen", "Coverage_category", "Coverage_category_description", "Coverage"}),
+				    Typed = Table.TransformColumnTypes(Selected, {{"Code", type text}, {"Year", Int64.Type}, {"Antigen", type text}, {"Coverage_category", type text}, {"Coverage_category_description", type text}, {"Coverage", type number}}),
+				    Renamed = Table.RenameColumns(Typed, {{"Code", "iso3"}, {"Year", "year"}, {"Antigen", "antigen_code"}, {"Coverage_category", "coverage_category"}, {"Coverage_category_description", "coverage_category_description"}, {"Coverage", "coverage_pct"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table

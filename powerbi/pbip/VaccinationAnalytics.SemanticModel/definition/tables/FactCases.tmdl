@@ -1,0 +1,43 @@
+table FactCases
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column disease_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: disease_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column cases
+		dataType: double
+		summarizeBy: none
+		sourceColumn: cases
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FactCases = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_reported_cases.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Selected = Table.SelectColumns(Promoted, {"Code", "Year", "Disease", "Cases"}),
+				    Typed = Table.TransformColumnTypes(Selected, {{"Code", type text}, {"Year", Int64.Type}, {"Disease", type text}, {"Cases", type number}}),
+				    Renamed = Table.RenameColumns(Typed, {{"Code", "iso3"}, {"Year", "year"}, {"Disease", "disease_code"}, {"Cases", "cases"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table

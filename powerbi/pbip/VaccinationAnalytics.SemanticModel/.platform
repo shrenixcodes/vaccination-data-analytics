@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "VaccinationAnalytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e4b2f59a-fc8e-4a56-8eb6-a4826f5f3338"
+  }
+}

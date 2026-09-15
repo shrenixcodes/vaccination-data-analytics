@@ -1,0 +1,78 @@
+table FactSchedule
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column vaccine_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: vaccine_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column schedule_rounds
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: schedule_rounds
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_pop
+		dataType: string
+		summarizeBy: none
+		sourceColumn: target_pop
+
+		annotation SummarizationSetBy = Automatic
+
+	column target_pop_description
+		dataType: string
+		summarizeBy: none
+		sourceColumn: target_pop_description
+
+		annotation SummarizationSetBy = Automatic
+
+	column geoarea
+		dataType: string
+		summarizeBy: none
+		sourceColumn: geoarea
+
+		annotation SummarizationSetBy = Automatic
+
+	column age_administered
+		dataType: string
+		summarizeBy: none
+		sourceColumn: age_administered
+
+		annotation SummarizationSetBy = Automatic
+
+	column source_comment
+		dataType: string
+		summarizeBy: none
+		sourceColumn: source_comment
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FactSchedule = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_vaccine_schedule.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Selected = Table.SelectColumns(Promoted, {"ISO_3_Code", "Vaccine_code", "Year", "Schedule_rounds", "Target_pop", "Target_pop_description", "Geoarea", "Age_administered", "Source_comment"}),
+				    Typed = Table.TransformColumnTypes(Selected, {{"ISO_3_Code", type text}, {"Vaccine_code", type text}, {"Year", Int64.Type}, {"Schedule_rounds", Int64.Type}, {"Target_pop", type text}, {"Target_pop_description", type text}, {"Geoarea", type text}, {"Age_administered", type text}, {"Source_comment", type text}}),
+				    Renamed = Table.RenameColumns(Typed, {{"ISO_3_Code", "iso3"}, {"Vaccine_code", "vaccine_code"}, {"Year", "year"}, {"Schedule_rounds", "schedule_rounds"}, {"Target_pop", "target_pop"}, {"Target_pop_description", "target_pop_description"}, {"Geoarea", "geoarea"}, {"Age_administered", "age_administered"}, {"Source_comment", "source_comment"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table

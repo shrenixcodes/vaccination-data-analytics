@@ -1,0 +1,35 @@
+table DimVaccine
+
+	column vaccine_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: vaccine_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column vaccine_description
+		dataType: string
+		summarizeBy: none
+		sourceColumn: vaccine_description
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimVaccine = m
+		mode: import
+		source =
+				let
+				    Intro = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_vaccine_introduction.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    IntroPromoted = Table.PromoteHeaders(Intro, [PromoteAllScalars=true]),
+				    IntroSelected = Table.SelectColumns(IntroPromoted, {"Vaccine_code", "Description"}),
+				    IntroRenamed = Table.RenameColumns(IntroSelected, {{"Vaccine_code", "vaccine_code"}, {"Description", "vaccine_description"}}),
+				    Sched = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_vaccine_schedule.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    SchedPromoted = Table.PromoteHeaders(Sched, [PromoteAllScalars=true]),
+				    SchedSelected = Table.SelectColumns(SchedPromoted, {"Vaccine_code", "Vaccine_description"}),
+				    SchedRenamed = Table.RenameColumns(SchedSelected, {{"Vaccine_code", "vaccine_code"}, {"Vaccine_description", "vaccine_description"}}),
+				    Combined = Table.Combine({IntroRenamed, SchedRenamed}),
+				    Deduped = Table.Distinct(Combined),
+				    Typed = Table.TransformColumnTypes(Deduped, {{"vaccine_code", type text}, {"vaccine_description", type text}})
+				in
+				    Typed
+
+annotation PBI_ResultType = Table

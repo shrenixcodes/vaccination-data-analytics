@@ -1,0 +1,50 @@
+table FactIncidence
+
+	column iso3
+		dataType: string
+		summarizeBy: none
+		sourceColumn: iso3
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column disease_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: disease_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column denominator
+		dataType: double
+		summarizeBy: none
+		sourceColumn: denominator
+
+		annotation SummarizationSetBy = Automatic
+
+	column incidence_rate
+		dataType: double
+		summarizeBy: none
+		sourceColumn: incidence_rate
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FactIncidence = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(RepoRootPath & "\data\processed\clean_incidence_rate.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Selected = Table.SelectColumns(Promoted, {"Code", "Year", "Disease", "Denominator", "Incidence_rate"}),
+				    Typed = Table.TransformColumnTypes(Selected, {{"Code", type text}, {"Year", Int64.Type}, {"Disease", type text}, {"Denominator", type number}, {"Incidence_rate", type number}}),
+				    Renamed = Table.RenameColumns(Typed, {{"Code", "iso3"}, {"Year", "year"}, {"Disease", "disease_code"}, {"Denominator", "denominator"}, {"Incidence_rate", "incidence_rate"}})
+				in
+				    Renamed
+
+annotation PBI_ResultType = Table
