@@ -8,7 +8,7 @@ estimates.
 
 | Dataset | Status | Rows (raw) | Rows (cleaned) | Years | Countries |
 |---|---|---:|---:|---|---:|
-| Coverage | Real (WHO GHO API) | 37,749 | 37,749 | 2000–2025 | 195 |
+| Coverage | Real (WHO GHO API) | 42,800 | 42,800 | 2000–2025 | 195 |
 | Reported cases | Real (WHO GHO API) | 64,860 | 64,860 | 1974–2025 | 214 |
 | Incidence rate | Real, derived (cases ÷ World Bank population × 100,000) | — | 48,652 | 1980–2024 | see below |
 | Vaccine introduction | **Simulated** (see `data/README.md`) | 1,565 | 1,565 | 2000–2023 | 228 |
@@ -22,11 +22,11 @@ estimates.
 - Rows with Year outside [1974, 2026]: **0 removed**
 - Rows with Coverage outside [0, 100]%: **0 removed**
 - Rows with a country Code not in the WHO country reference: **0 removed**
-- Result: all 37,749 raw rows retained — WHO's WUENIC estimates were already
+- Result: all 42,800 raw rows retained — WHO's WUENIC estimates were already
   schema-consistent and range-valid at the point of extraction (source is
   the same GHO API used by the portal itself, not a manually-exported
   file with transcription risk).
-- Antigens present: BCG, DTP3, HEPB3, HIB3, IPV1, MCV1, MCV2, PCV3, ROTAC.
+- Antigens present: BCG, DTP1, DTP3, HEPB3, HIB3, IPV1, MCV1, MCV2, PCV3, ROTAC.
 
 ### Reported cases (`reported-cases.csv` → `clean_reported_cases.csv`)
 

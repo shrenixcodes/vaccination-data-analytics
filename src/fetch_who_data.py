@@ -27,6 +27,7 @@ GHO_BASE = "https://ghoapi.azureedge.net/api"
 # WHO/UNICEF Estimates of National Immunization Coverage (WUENIC) indicators.
 COVERAGE_INDICATORS = {
     "WHS4_543": ("BCG", "Bacille Calmette-Guerin vaccine (tuberculosis)"),
+    "VACCINECOVERAGE_DTP1": ("DTP1", "Diphtheria tetanus toxoid and pertussis, 1st dose"),
     "WHS4_100": ("DTP3", "Diphtheria tetanus toxoid and pertussis, 3rd dose"),
     "WHS4_117": ("HEPB3", "Hepatitis B vaccine, 3rd dose"),
     "WHS4_129": ("HIB3", "Haemophilus influenzae type B vaccine, 3rd dose"),

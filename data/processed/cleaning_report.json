@@ -1,11 +1,11 @@
 {
   "coverage": {
-    "rows_before": 37749,
+    "rows_before": 42800,
     "duplicate_rows_removed": 0,
     "invalid_year_rows_removed": 0,
     "invalid_coverage_rows_removed": 0,
     "unknown_country_code_rows_removed": 0,
-    "rows_after": 37749
+    "rows_after": 42800
   },
   "reported_cases": {
     "rows_before": 64860,
