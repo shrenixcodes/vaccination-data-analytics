@@ -76,7 +76,7 @@ def test_validate_vaccine_introduction_flags_bad_region():
         [
             {
                 "ISO_3_Code": "AFG", "Country_Name": "Afghanistan", "WHO_Region": "ZZZ",
-                "Year": 2015.0, "Description": "Rotavirus vaccine", "Intro": "YES",
+                "Year": 2015.0, "Vaccine_code": "ROTA", "Description": "Rotavirus vaccine", "Intro": "YES",
             }
         ]
     )

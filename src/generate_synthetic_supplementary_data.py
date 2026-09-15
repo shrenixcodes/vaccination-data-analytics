@@ -74,6 +74,7 @@ def build_vaccine_introduction(country_ref: pd.DataFrame, rng: np.random.Generat
                     "Country_Name": country["Country_Name"],
                     "WHO_Region": country["WHO_Region"],
                     "Year": year,
+                    "Vaccine_code": code,
                     "Description": description,
                     "Intro": "Yes" if introduced else "No",
                 }

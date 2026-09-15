@@ -101,7 +101,7 @@ def test_clean_vaccine_introduction_drops_inconsistent_yes_with_no_year():
         [
             {
                 "ISO_3_Code": "AFG", "Country_Name": "Afghanistan", "WHO_Region": "EMR",
-                "Year": None, "Description": "Rotavirus vaccine", "Intro": "Yes",
+                "Year": None, "Vaccine_code": "ROTA", "Description": "Rotavirus vaccine", "Intro": "Yes",
             }
         ]
     )

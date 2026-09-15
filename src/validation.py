@@ -22,7 +22,7 @@ REQUIRED_INCIDENCE_COLUMNS = {
     "Denominator", "Incidence_rate",
 }
 REQUIRED_INTRO_COLUMNS = {
-    "ISO_3_Code", "Country_Name", "WHO_Region", "Year", "Description", "Intro",
+    "ISO_3_Code", "Country_Name", "WHO_Region", "Year", "Vaccine_code", "Description", "Intro",
 }
 REQUIRED_SCHEDULE_COLUMNS = {
     "ISO_3_Code", "Country_Name", "WHO_Region", "Year", "Vaccine_code",

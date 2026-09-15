@@ -145,8 +145,8 @@ def clean_vaccine_introduction(df: pd.DataFrame, valid_regions: set[str]) -> tup
     df["WHO_Region"] = standardize_text(df["WHO_Region"])
     df["Intro"] = standardize_text(df["Intro"])
 
-    dupes = df.duplicated(subset=["ISO_3_Code", "Description"]).sum()
-    df = df.drop_duplicates(subset=["ISO_3_Code", "Description"])
+    dupes = df.duplicated(subset=["ISO_3_Code", "Vaccine_code"]).sum()
+    df = df.drop_duplicates(subset=["ISO_3_Code", "Vaccine_code"])
     report["duplicate_rows_removed"] = int(dupes)
 
     bad_region = ~df["WHO_Region"].isin(valid_regions)
