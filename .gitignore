@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw data (large / redistribution-restricted; see data/README.md)
+data/raw/*.csv
+data/raw/*.xlsx
+!data/raw/.gitkeep
+
+# Power BI
+*.pbix.bak
+~$*.pbix
