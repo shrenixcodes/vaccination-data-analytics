@@ -1,0 +1,1566 @@
+ISO_3_Code,Country_Name,WHO_Region,Year,Description,Intro
+ABW,Aruba,AMR,,Rotavirus vaccine,NO
+ABW,Aruba,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+ABW,Aruba,AMR,2020.0,Human papillomavirus vaccine,YES
+ABW,Aruba,AMR,2012.0,Hepatitis B birth dose,YES
+ABW,Aruba,AMR,,Inactivated polio vaccine,NO
+ABW,Aruba,AMR,,Yellow fever vaccine,NO
+ABW,Aruba,AMR,2023.0,"Rubella-containing vaccine, 1st dose",YES
+AFG,Afghanistan,EMR,2012.0,Rotavirus vaccine,YES
+AFG,Afghanistan,EMR,,Pneumococcal conjugate vaccine,NO
+AFG,Afghanistan,EMR,2008.0,Human papillomavirus vaccine,YES
+AFG,Afghanistan,EMR,,Hepatitis B birth dose,NO
+AFG,Afghanistan,EMR,2010.0,Inactivated polio vaccine,YES
+AFG,Afghanistan,EMR,2005.0,"Rubella-containing vaccine, 1st dose",YES
+AGO,Angola,AFR,2020.0,Rotavirus vaccine,YES
+AGO,Angola,AFR,2019.0,Pneumococcal conjugate vaccine,YES
+AGO,Angola,AFR,,Human papillomavirus vaccine,NO
+AGO,Angola,AFR,2001.0,Hepatitis B birth dose,YES
+AGO,Angola,AFR,,Inactivated polio vaccine,NO
+AGO,Angola,AFR,,Meningococcal A conjugate vaccine,NO
+AGO,Angola,AFR,2023.0,Yellow fever vaccine,YES
+AGO,Angola,AFR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+AIA,Anguilla,AMR,2001.0,Rotavirus vaccine,YES
+AIA,Anguilla,AMR,2022.0,Pneumococcal conjugate vaccine,YES
+AIA,Anguilla,AMR,,Human papillomavirus vaccine,NO
+AIA,Anguilla,AMR,2017.0,Hepatitis B birth dose,YES
+AIA,Anguilla,AMR,2001.0,Inactivated polio vaccine,YES
+AIA,Anguilla,AMR,2011.0,Yellow fever vaccine,YES
+AIA,Anguilla,AMR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+ALB,Albania,EUR,2011.0,Rotavirus vaccine,YES
+ALB,Albania,EUR,2022.0,Pneumococcal conjugate vaccine,YES
+ALB,Albania,EUR,,Human papillomavirus vaccine,NO
+ALB,Albania,EUR,2010.0,Hepatitis B birth dose,YES
+ALB,Albania,EUR,2018.0,Inactivated polio vaccine,YES
+ALB,Albania,EUR,,"Rubella-containing vaccine, 1st dose",NO
+AND,Andorra,EUR,2019.0,Rotavirus vaccine,YES
+AND,Andorra,EUR,2005.0,Pneumococcal conjugate vaccine,YES
+AND,Andorra,EUR,2016.0,Human papillomavirus vaccine,YES
+AND,Andorra,EUR,2019.0,Hepatitis B birth dose,YES
+AND,Andorra,EUR,,Inactivated polio vaccine,NO
+AND,Andorra,EUR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+ARE,United Arab Emirates,EMR,2006.0,Rotavirus vaccine,YES
+ARE,United Arab Emirates,EMR,2018.0,Pneumococcal conjugate vaccine,YES
+ARE,United Arab Emirates,EMR,2000.0,Human papillomavirus vaccine,YES
+ARE,United Arab Emirates,EMR,2003.0,Hepatitis B birth dose,YES
+ARE,United Arab Emirates,EMR,2015.0,Inactivated polio vaccine,YES
+ARE,United Arab Emirates,EMR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+ARG,Argentina,AMR,,Rotavirus vaccine,NO
+ARG,Argentina,AMR,2013.0,Pneumococcal conjugate vaccine,YES
+ARG,Argentina,AMR,2013.0,Human papillomavirus vaccine,YES
+ARG,Argentina,AMR,2014.0,Hepatitis B birth dose,YES
+ARG,Argentina,AMR,2000.0,Inactivated polio vaccine,YES
+ARG,Argentina,AMR,2006.0,Yellow fever vaccine,YES
+ARG,Argentina,AMR,,"Rubella-containing vaccine, 1st dose",NO
+ARM,Armenia,EUR,2009.0,Rotavirus vaccine,YES
+ARM,Armenia,EUR,2020.0,Pneumococcal conjugate vaccine,YES
+ARM,Armenia,EUR,2006.0,Human papillomavirus vaccine,YES
+ARM,Armenia,EUR,2003.0,Hepatitis B birth dose,YES
+ARM,Armenia,EUR,,Inactivated polio vaccine,NO
+ARM,Armenia,EUR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+ASM,American Samoa,WPR,2010.0,Rotavirus vaccine,YES
+ASM,American Samoa,WPR,2019.0,Pneumococcal conjugate vaccine,YES
+ASM,American Samoa,WPR,2002.0,Human papillomavirus vaccine,YES
+ASM,American Samoa,WPR,,Hepatitis B birth dose,NO
+ASM,American Samoa,WPR,2002.0,Inactivated polio vaccine,YES
+ASM,American Samoa,WPR,2021.0,Japanese encephalitis vaccine,YES
+ASM,American Samoa,WPR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+ATG,Antigua and Barbuda,AMR,2011.0,Rotavirus vaccine,YES
+ATG,Antigua and Barbuda,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+ATG,Antigua and Barbuda,AMR,2016.0,Human papillomavirus vaccine,YES
+ATG,Antigua and Barbuda,AMR,2015.0,Hepatitis B birth dose,YES
+ATG,Antigua and Barbuda,AMR,2008.0,Inactivated polio vaccine,YES
+ATG,Antigua and Barbuda,AMR,,Yellow fever vaccine,NO
+ATG,Antigua and Barbuda,AMR,,"Rubella-containing vaccine, 1st dose",NO
+AUS,Australia,WPR,2002.0,Rotavirus vaccine,YES
+AUS,Australia,WPR,2018.0,Pneumococcal conjugate vaccine,YES
+AUS,Australia,WPR,,Human papillomavirus vaccine,NO
+AUS,Australia,WPR,2023.0,Hepatitis B birth dose,YES
+AUS,Australia,WPR,2017.0,Inactivated polio vaccine,YES
+AUS,Australia,WPR,2006.0,Japanese encephalitis vaccine,YES
+AUS,Australia,WPR,,"Rubella-containing vaccine, 1st dose",NO
+AUT,Austria,EUR,2016.0,Rotavirus vaccine,YES
+AUT,Austria,EUR,2004.0,Pneumococcal conjugate vaccine,YES
+AUT,Austria,EUR,2013.0,Human papillomavirus vaccine,YES
+AUT,Austria,EUR,,Hepatitis B birth dose,NO
+AUT,Austria,EUR,,Inactivated polio vaccine,NO
+AUT,Austria,EUR,2004.0,"Rubella-containing vaccine, 1st dose",YES
+AZE,Azerbaijan,EUR,2007.0,Rotavirus vaccine,YES
+AZE,Azerbaijan,EUR,2015.0,Pneumococcal conjugate vaccine,YES
+AZE,Azerbaijan,EUR,2015.0,Human papillomavirus vaccine,YES
+AZE,Azerbaijan,EUR,2002.0,Hepatitis B birth dose,YES
+AZE,Azerbaijan,EUR,2004.0,Inactivated polio vaccine,YES
+AZE,Azerbaijan,EUR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+BDI,Burundi,AFR,2016.0,Rotavirus vaccine,YES
+BDI,Burundi,AFR,2002.0,Pneumococcal conjugate vaccine,YES
+BDI,Burundi,AFR,2007.0,Human papillomavirus vaccine,YES
+BDI,Burundi,AFR,2022.0,Hepatitis B birth dose,YES
+BDI,Burundi,AFR,2014.0,Inactivated polio vaccine,YES
+BDI,Burundi,AFR,2014.0,Meningococcal A conjugate vaccine,YES
+BDI,Burundi,AFR,,Yellow fever vaccine,NO
+BDI,Burundi,AFR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+BEL,Belgium,EUR,2018.0,Rotavirus vaccine,YES
+BEL,Belgium,EUR,2016.0,Pneumococcal conjugate vaccine,YES
+BEL,Belgium,EUR,,Human papillomavirus vaccine,NO
+BEL,Belgium,EUR,2011.0,Hepatitis B birth dose,YES
+BEL,Belgium,EUR,2019.0,Inactivated polio vaccine,YES
+BEL,Belgium,EUR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+BEN,Benin,AFR,2020.0,Rotavirus vaccine,YES
+BEN,Benin,AFR,2010.0,Pneumococcal conjugate vaccine,YES
+BEN,Benin,AFR,,Human papillomavirus vaccine,NO
+BEN,Benin,AFR,,Hepatitis B birth dose,NO
+BEN,Benin,AFR,2007.0,Inactivated polio vaccine,YES
+BEN,Benin,AFR,2013.0,Meningococcal A conjugate vaccine,YES
+BEN,Benin,AFR,2002.0,Yellow fever vaccine,YES
+BEN,Benin,AFR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+BES,"Bonaire, Saint Eustatius and Saba",AMR,,Rotavirus vaccine,NO
+BES,"Bonaire, Saint Eustatius and Saba",AMR,,Pneumococcal conjugate vaccine,NO
+BES,"Bonaire, Saint Eustatius and Saba",AMR,2014.0,Human papillomavirus vaccine,YES
+BES,"Bonaire, Saint Eustatius and Saba",AMR,2021.0,Hepatitis B birth dose,YES
+BES,"Bonaire, Saint Eustatius and Saba",AMR,2003.0,Inactivated polio vaccine,YES
+BES,"Bonaire, Saint Eustatius and Saba",AMR,2013.0,Yellow fever vaccine,YES
+BES,"Bonaire, Saint Eustatius and Saba",AMR,,"Rubella-containing vaccine, 1st dose",NO
+BFA,Burkina Faso,AFR,,Rotavirus vaccine,NO
+BFA,Burkina Faso,AFR,2004.0,Pneumococcal conjugate vaccine,YES
+BFA,Burkina Faso,AFR,2022.0,Human papillomavirus vaccine,YES
+BFA,Burkina Faso,AFR,2021.0,Hepatitis B birth dose,YES
+BFA,Burkina Faso,AFR,,Inactivated polio vaccine,NO
+BFA,Burkina Faso,AFR,2006.0,Meningococcal A conjugate vaccine,YES
+BFA,Burkina Faso,AFR,2007.0,Yellow fever vaccine,YES
+BFA,Burkina Faso,AFR,,"Rubella-containing vaccine, 1st dose",NO
+BGD,Bangladesh,SEAR,,Rotavirus vaccine,NO
+BGD,Bangladesh,SEAR,,Pneumococcal conjugate vaccine,NO
+BGD,Bangladesh,SEAR,,Human papillomavirus vaccine,NO
+BGD,Bangladesh,SEAR,,Hepatitis B birth dose,NO
+BGD,Bangladesh,SEAR,2010.0,Inactivated polio vaccine,YES
+BGD,Bangladesh,SEAR,2000.0,Japanese encephalitis vaccine,YES
+BGD,Bangladesh,SEAR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+BGR,Bulgaria,EUR,2021.0,Rotavirus vaccine,YES
+BGR,Bulgaria,EUR,,Pneumococcal conjugate vaccine,NO
+BGR,Bulgaria,EUR,2002.0,Human papillomavirus vaccine,YES
+BGR,Bulgaria,EUR,,Hepatitis B birth dose,NO
+BGR,Bulgaria,EUR,2000.0,Inactivated polio vaccine,YES
+BGR,Bulgaria,EUR,,"Rubella-containing vaccine, 1st dose",NO
+BHR,Bahrain,EMR,2002.0,Rotavirus vaccine,YES
+BHR,Bahrain,EMR,2008.0,Pneumococcal conjugate vaccine,YES
+BHR,Bahrain,EMR,,Human papillomavirus vaccine,NO
+BHR,Bahrain,EMR,2014.0,Hepatitis B birth dose,YES
+BHR,Bahrain,EMR,2023.0,Inactivated polio vaccine,YES
+BHR,Bahrain,EMR,,"Rubella-containing vaccine, 1st dose",NO
+BHS,Bahamas,AMR,2018.0,Rotavirus vaccine,YES
+BHS,Bahamas,AMR,2022.0,Pneumococcal conjugate vaccine,YES
+BHS,Bahamas,AMR,2000.0,Human papillomavirus vaccine,YES
+BHS,Bahamas,AMR,2000.0,Hepatitis B birth dose,YES
+BHS,Bahamas,AMR,2016.0,Inactivated polio vaccine,YES
+BHS,Bahamas,AMR,2022.0,Yellow fever vaccine,YES
+BHS,Bahamas,AMR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+BIH,Bosnia and Herzegovina,EUR,2020.0,Rotavirus vaccine,YES
+BIH,Bosnia and Herzegovina,EUR,2019.0,Pneumococcal conjugate vaccine,YES
+BIH,Bosnia and Herzegovina,EUR,,Human papillomavirus vaccine,NO
+BIH,Bosnia and Herzegovina,EUR,2010.0,Hepatitis B birth dose,YES
+BIH,Bosnia and Herzegovina,EUR,,Inactivated polio vaccine,NO
+BIH,Bosnia and Herzegovina,EUR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+BLR,Belarus,EUR,2003.0,Rotavirus vaccine,YES
+BLR,Belarus,EUR,2011.0,Pneumococcal conjugate vaccine,YES
+BLR,Belarus,EUR,,Human papillomavirus vaccine,NO
+BLR,Belarus,EUR,2023.0,Hepatitis B birth dose,YES
+BLR,Belarus,EUR,2022.0,Inactivated polio vaccine,YES
+BLR,Belarus,EUR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+BLZ,Belize,AMR,2015.0,Rotavirus vaccine,YES
+BLZ,Belize,AMR,2017.0,Pneumococcal conjugate vaccine,YES
+BLZ,Belize,AMR,,Human papillomavirus vaccine,NO
+BLZ,Belize,AMR,2010.0,Hepatitis B birth dose,YES
+BLZ,Belize,AMR,,Inactivated polio vaccine,NO
+BLZ,Belize,AMR,,Yellow fever vaccine,NO
+BLZ,Belize,AMR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+BMU,Bermuda,AMR,2018.0,Rotavirus vaccine,YES
+BMU,Bermuda,AMR,2006.0,Pneumococcal conjugate vaccine,YES
+BMU,Bermuda,AMR,,Human papillomavirus vaccine,NO
+BMU,Bermuda,AMR,2019.0,Hepatitis B birth dose,YES
+BMU,Bermuda,AMR,2018.0,Inactivated polio vaccine,YES
+BMU,Bermuda,AMR,,Yellow fever vaccine,NO
+BMU,Bermuda,AMR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+BOL,Bolivia (Plurinational State of),AMR,2002.0,Rotavirus vaccine,YES
+BOL,Bolivia (Plurinational State of),AMR,2008.0,Pneumococcal conjugate vaccine,YES
+BOL,Bolivia (Plurinational State of),AMR,2023.0,Human papillomavirus vaccine,YES
+BOL,Bolivia (Plurinational State of),AMR,2020.0,Hepatitis B birth dose,YES
+BOL,Bolivia (Plurinational State of),AMR,2006.0,Inactivated polio vaccine,YES
+BOL,Bolivia (Plurinational State of),AMR,,Yellow fever vaccine,NO
+BOL,Bolivia (Plurinational State of),AMR,,"Rubella-containing vaccine, 1st dose",NO
+BRA,Brazil,AMR,2005.0,Rotavirus vaccine,YES
+BRA,Brazil,AMR,2011.0,Pneumococcal conjugate vaccine,YES
+BRA,Brazil,AMR,2014.0,Human papillomavirus vaccine,YES
+BRA,Brazil,AMR,,Hepatitis B birth dose,NO
+BRA,Brazil,AMR,2022.0,Inactivated polio vaccine,YES
+BRA,Brazil,AMR,,Yellow fever vaccine,NO
+BRA,Brazil,AMR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+BRB,Barbados,AMR,2013.0,Rotavirus vaccine,YES
+BRB,Barbados,AMR,2003.0,Pneumococcal conjugate vaccine,YES
+BRB,Barbados,AMR,2017.0,Human papillomavirus vaccine,YES
+BRB,Barbados,AMR,2001.0,Hepatitis B birth dose,YES
+BRB,Barbados,AMR,2010.0,Inactivated polio vaccine,YES
+BRB,Barbados,AMR,2014.0,Yellow fever vaccine,YES
+BRB,Barbados,AMR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+BRN,Brunei Darussalam,WPR,2007.0,Rotavirus vaccine,YES
+BRN,Brunei Darussalam,WPR,,Pneumococcal conjugate vaccine,NO
+BRN,Brunei Darussalam,WPR,,Human papillomavirus vaccine,NO
+BRN,Brunei Darussalam,WPR,2011.0,Hepatitis B birth dose,YES
+BRN,Brunei Darussalam,WPR,2004.0,Inactivated polio vaccine,YES
+BRN,Brunei Darussalam,WPR,2015.0,Japanese encephalitis vaccine,YES
+BRN,Brunei Darussalam,WPR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+BTN,Bhutan,SEAR,2000.0,Rotavirus vaccine,YES
+BTN,Bhutan,SEAR,2008.0,Pneumococcal conjugate vaccine,YES
+BTN,Bhutan,SEAR,2002.0,Human papillomavirus vaccine,YES
+BTN,Bhutan,SEAR,2020.0,Hepatitis B birth dose,YES
+BTN,Bhutan,SEAR,,Inactivated polio vaccine,NO
+BTN,Bhutan,SEAR,2020.0,Japanese encephalitis vaccine,YES
+BTN,Bhutan,SEAR,,"Rubella-containing vaccine, 1st dose",NO
+BWA,Botswana,AFR,,Rotavirus vaccine,NO
+BWA,Botswana,AFR,,Pneumococcal conjugate vaccine,NO
+BWA,Botswana,AFR,,Human papillomavirus vaccine,NO
+BWA,Botswana,AFR,2020.0,Hepatitis B birth dose,YES
+BWA,Botswana,AFR,,Inactivated polio vaccine,NO
+BWA,Botswana,AFR,2019.0,Meningococcal A conjugate vaccine,YES
+BWA,Botswana,AFR,2012.0,Yellow fever vaccine,YES
+BWA,Botswana,AFR,,"Rubella-containing vaccine, 1st dose",NO
+CAF,Central African Republic,AFR,2018.0,Rotavirus vaccine,YES
+CAF,Central African Republic,AFR,2009.0,Pneumococcal conjugate vaccine,YES
+CAF,Central African Republic,AFR,2001.0,Human papillomavirus vaccine,YES
+CAF,Central African Republic,AFR,2003.0,Hepatitis B birth dose,YES
+CAF,Central African Republic,AFR,2014.0,Inactivated polio vaccine,YES
+CAF,Central African Republic,AFR,2005.0,Meningococcal A conjugate vaccine,YES
+CAF,Central African Republic,AFR,2017.0,Yellow fever vaccine,YES
+CAF,Central African Republic,AFR,2007.0,"Rubella-containing vaccine, 1st dose",YES
+CAN,Canada,AMR,2005.0,Rotavirus vaccine,YES
+CAN,Canada,AMR,,Pneumococcal conjugate vaccine,NO
+CAN,Canada,AMR,,Human papillomavirus vaccine,NO
+CAN,Canada,AMR,2007.0,Hepatitis B birth dose,YES
+CAN,Canada,AMR,2011.0,Inactivated polio vaccine,YES
+CAN,Canada,AMR,,Yellow fever vaccine,NO
+CAN,Canada,AMR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+CHE,Switzerland,EUR,,Rotavirus vaccine,NO
+CHE,Switzerland,EUR,2018.0,Pneumococcal conjugate vaccine,YES
+CHE,Switzerland,EUR,2015.0,Human papillomavirus vaccine,YES
+CHE,Switzerland,EUR,,Hepatitis B birth dose,NO
+CHE,Switzerland,EUR,2014.0,Inactivated polio vaccine,YES
+CHE,Switzerland,EUR,,"Rubella-containing vaccine, 1st dose",NO
+CHL,Chile,AMR,2016.0,Rotavirus vaccine,YES
+CHL,Chile,AMR,2015.0,Pneumococcal conjugate vaccine,YES
+CHL,Chile,AMR,,Human papillomavirus vaccine,NO
+CHL,Chile,AMR,2002.0,Hepatitis B birth dose,YES
+CHL,Chile,AMR,,Inactivated polio vaccine,NO
+CHL,Chile,AMR,2023.0,Yellow fever vaccine,YES
+CHL,Chile,AMR,,"Rubella-containing vaccine, 1st dose",NO
+CHN,China,WPR,2023.0,Rotavirus vaccine,YES
+CHN,China,WPR,,Pneumococcal conjugate vaccine,NO
+CHN,China,WPR,,Human papillomavirus vaccine,NO
+CHN,China,WPR,,Hepatitis B birth dose,NO
+CHN,China,WPR,2017.0,Inactivated polio vaccine,YES
+CHN,China,WPR,2014.0,Japanese encephalitis vaccine,YES
+CHN,China,WPR,2004.0,"Rubella-containing vaccine, 1st dose",YES
+CIV,Cote d'Ivoire,AFR,2004.0,Rotavirus vaccine,YES
+CIV,Cote d'Ivoire,AFR,2011.0,Pneumococcal conjugate vaccine,YES
+CIV,Cote d'Ivoire,AFR,2011.0,Human papillomavirus vaccine,YES
+CIV,Cote d'Ivoire,AFR,,Hepatitis B birth dose,NO
+CIV,Cote d'Ivoire,AFR,,Inactivated polio vaccine,NO
+CIV,Cote d'Ivoire,AFR,2005.0,Meningococcal A conjugate vaccine,YES
+CIV,Cote d'Ivoire,AFR,,Yellow fever vaccine,NO
+CIV,Cote d'Ivoire,AFR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+CMR,Cameroon,AFR,2017.0,Rotavirus vaccine,YES
+CMR,Cameroon,AFR,2002.0,Pneumococcal conjugate vaccine,YES
+CMR,Cameroon,AFR,2022.0,Human papillomavirus vaccine,YES
+CMR,Cameroon,AFR,2018.0,Hepatitis B birth dose,YES
+CMR,Cameroon,AFR,2017.0,Inactivated polio vaccine,YES
+CMR,Cameroon,AFR,,Meningococcal A conjugate vaccine,NO
+CMR,Cameroon,AFR,2021.0,Yellow fever vaccine,YES
+CMR,Cameroon,AFR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+COD,Democratic Republic of the Congo,AFR,2007.0,Rotavirus vaccine,YES
+COD,Democratic Republic of the Congo,AFR,2002.0,Pneumococcal conjugate vaccine,YES
+COD,Democratic Republic of the Congo,AFR,2022.0,Human papillomavirus vaccine,YES
+COD,Democratic Republic of the Congo,AFR,2003.0,Hepatitis B birth dose,YES
+COD,Democratic Republic of the Congo,AFR,2017.0,Inactivated polio vaccine,YES
+COD,Democratic Republic of the Congo,AFR,,Meningococcal A conjugate vaccine,NO
+COD,Democratic Republic of the Congo,AFR,,Yellow fever vaccine,NO
+COD,Democratic Republic of the Congo,AFR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+COG,Congo,AFR,,Rotavirus vaccine,NO
+COG,Congo,AFR,2009.0,Pneumococcal conjugate vaccine,YES
+COG,Congo,AFR,,Human papillomavirus vaccine,NO
+COG,Congo,AFR,2006.0,Hepatitis B birth dose,YES
+COG,Congo,AFR,2020.0,Inactivated polio vaccine,YES
+COG,Congo,AFR,2011.0,Meningococcal A conjugate vaccine,YES
+COG,Congo,AFR,2014.0,Yellow fever vaccine,YES
+COG,Congo,AFR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+COK,Cook Islands,WPR,,Rotavirus vaccine,NO
+COK,Cook Islands,WPR,2010.0,Pneumococcal conjugate vaccine,YES
+COK,Cook Islands,WPR,2007.0,Human papillomavirus vaccine,YES
+COK,Cook Islands,WPR,2010.0,Hepatitis B birth dose,YES
+COK,Cook Islands,WPR,,Inactivated polio vaccine,NO
+COK,Cook Islands,WPR,,Japanese encephalitis vaccine,NO
+COK,Cook Islands,WPR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+COL,Colombia,AMR,,Rotavirus vaccine,NO
+COL,Colombia,AMR,2023.0,Pneumococcal conjugate vaccine,YES
+COL,Colombia,AMR,,Human papillomavirus vaccine,NO
+COL,Colombia,AMR,2015.0,Hepatitis B birth dose,YES
+COL,Colombia,AMR,2023.0,Inactivated polio vaccine,YES
+COL,Colombia,AMR,2014.0,Yellow fever vaccine,YES
+COL,Colombia,AMR,,"Rubella-containing vaccine, 1st dose",NO
+COM,Comoros,AFR,2002.0,Rotavirus vaccine,YES
+COM,Comoros,AFR,2010.0,Pneumococcal conjugate vaccine,YES
+COM,Comoros,AFR,,Human papillomavirus vaccine,NO
+COM,Comoros,AFR,2003.0,Hepatitis B birth dose,YES
+COM,Comoros,AFR,,Inactivated polio vaccine,NO
+COM,Comoros,AFR,2021.0,Meningococcal A conjugate vaccine,YES
+COM,Comoros,AFR,2000.0,Yellow fever vaccine,YES
+COM,Comoros,AFR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+CPV,Cabo Verde,AFR,,Rotavirus vaccine,NO
+CPV,Cabo Verde,AFR,2014.0,Pneumococcal conjugate vaccine,YES
+CPV,Cabo Verde,AFR,,Human papillomavirus vaccine,NO
+CPV,Cabo Verde,AFR,2016.0,Hepatitis B birth dose,YES
+CPV,Cabo Verde,AFR,,Inactivated polio vaccine,NO
+CPV,Cabo Verde,AFR,,Meningococcal A conjugate vaccine,NO
+CPV,Cabo Verde,AFR,2019.0,Yellow fever vaccine,YES
+CPV,Cabo Verde,AFR,,"Rubella-containing vaccine, 1st dose",NO
+CRI,Costa Rica,AMR,2010.0,Rotavirus vaccine,YES
+CRI,Costa Rica,AMR,2004.0,Pneumococcal conjugate vaccine,YES
+CRI,Costa Rica,AMR,2012.0,Human papillomavirus vaccine,YES
+CRI,Costa Rica,AMR,2017.0,Hepatitis B birth dose,YES
+CRI,Costa Rica,AMR,,Inactivated polio vaccine,NO
+CRI,Costa Rica,AMR,2019.0,Yellow fever vaccine,YES
+CRI,Costa Rica,AMR,2017.0,"Rubella-containing vaccine, 1st dose",YES
+CUB,Cuba,AMR,2002.0,Rotavirus vaccine,YES
+CUB,Cuba,AMR,,Pneumococcal conjugate vaccine,NO
+CUB,Cuba,AMR,2017.0,Human papillomavirus vaccine,YES
+CUB,Cuba,AMR,2001.0,Hepatitis B birth dose,YES
+CUB,Cuba,AMR,2014.0,Inactivated polio vaccine,YES
+CUB,Cuba,AMR,,Yellow fever vaccine,NO
+CUB,Cuba,AMR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+CUW,Curaçao,AMR,2004.0,Rotavirus vaccine,YES
+CUW,Curaçao,AMR,2009.0,Pneumococcal conjugate vaccine,YES
+CUW,Curaçao,AMR,2023.0,Human papillomavirus vaccine,YES
+CUW,Curaçao,AMR,,Hepatitis B birth dose,NO
+CUW,Curaçao,AMR,2020.0,Inactivated polio vaccine,YES
+CUW,Curaçao,AMR,2013.0,Yellow fever vaccine,YES
+CUW,Curaçao,AMR,,"Rubella-containing vaccine, 1st dose",NO
+CYM,Cayman Islands,AMR,2010.0,Rotavirus vaccine,YES
+CYM,Cayman Islands,AMR,2013.0,Pneumococcal conjugate vaccine,YES
+CYM,Cayman Islands,AMR,2010.0,Human papillomavirus vaccine,YES
+CYM,Cayman Islands,AMR,2022.0,Hepatitis B birth dose,YES
+CYM,Cayman Islands,AMR,2016.0,Inactivated polio vaccine,YES
+CYM,Cayman Islands,AMR,2009.0,Yellow fever vaccine,YES
+CYM,Cayman Islands,AMR,2023.0,"Rubella-containing vaccine, 1st dose",YES
+CYP,Cyprus,EUR,2003.0,Rotavirus vaccine,YES
+CYP,Cyprus,EUR,2014.0,Pneumococcal conjugate vaccine,YES
+CYP,Cyprus,EUR,2010.0,Human papillomavirus vaccine,YES
+CYP,Cyprus,EUR,2023.0,Hepatitis B birth dose,YES
+CYP,Cyprus,EUR,2009.0,Inactivated polio vaccine,YES
+CYP,Cyprus,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+CZE,Czechia,EUR,2014.0,Rotavirus vaccine,YES
+CZE,Czechia,EUR,2007.0,Pneumococcal conjugate vaccine,YES
+CZE,Czechia,EUR,2010.0,Human papillomavirus vaccine,YES
+CZE,Czechia,EUR,2002.0,Hepatitis B birth dose,YES
+CZE,Czechia,EUR,2013.0,Inactivated polio vaccine,YES
+CZE,Czechia,EUR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+DEU,Germany,EUR,2015.0,Rotavirus vaccine,YES
+DEU,Germany,EUR,2005.0,Pneumococcal conjugate vaccine,YES
+DEU,Germany,EUR,2018.0,Human papillomavirus vaccine,YES
+DEU,Germany,EUR,2012.0,Hepatitis B birth dose,YES
+DEU,Germany,EUR,2015.0,Inactivated polio vaccine,YES
+DEU,Germany,EUR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+DJI,Djibouti,EMR,,Rotavirus vaccine,NO
+DJI,Djibouti,EMR,,Pneumococcal conjugate vaccine,NO
+DJI,Djibouti,EMR,2017.0,Human papillomavirus vaccine,YES
+DJI,Djibouti,EMR,2006.0,Hepatitis B birth dose,YES
+DJI,Djibouti,EMR,2019.0,Inactivated polio vaccine,YES
+DJI,Djibouti,EMR,,"Rubella-containing vaccine, 1st dose",NO
+DMA,Dominica,AMR,2000.0,Rotavirus vaccine,YES
+DMA,Dominica,AMR,2002.0,Pneumococcal conjugate vaccine,YES
+DMA,Dominica,AMR,,Human papillomavirus vaccine,NO
+DMA,Dominica,AMR,2001.0,Hepatitis B birth dose,YES
+DMA,Dominica,AMR,2006.0,Inactivated polio vaccine,YES
+DMA,Dominica,AMR,2017.0,Yellow fever vaccine,YES
+DMA,Dominica,AMR,,"Rubella-containing vaccine, 1st dose",NO
+DNK,Denmark,EUR,2007.0,Rotavirus vaccine,YES
+DNK,Denmark,EUR,,Pneumococcal conjugate vaccine,NO
+DNK,Denmark,EUR,,Human papillomavirus vaccine,NO
+DNK,Denmark,EUR,2017.0,Hepatitis B birth dose,YES
+DNK,Denmark,EUR,2003.0,Inactivated polio vaccine,YES
+DNK,Denmark,EUR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+DOM,Dominican Republic,AMR,,Rotavirus vaccine,NO
+DOM,Dominican Republic,AMR,,Pneumococcal conjugate vaccine,NO
+DOM,Dominican Republic,AMR,,Human papillomavirus vaccine,NO
+DOM,Dominican Republic,AMR,2008.0,Hepatitis B birth dose,YES
+DOM,Dominican Republic,AMR,2003.0,Inactivated polio vaccine,YES
+DOM,Dominican Republic,AMR,2016.0,Yellow fever vaccine,YES
+DOM,Dominican Republic,AMR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+DZA,Algeria,AFR,2000.0,Rotavirus vaccine,YES
+DZA,Algeria,AFR,2011.0,Pneumococcal conjugate vaccine,YES
+DZA,Algeria,AFR,2003.0,Human papillomavirus vaccine,YES
+DZA,Algeria,AFR,,Hepatitis B birth dose,NO
+DZA,Algeria,AFR,,Inactivated polio vaccine,NO
+DZA,Algeria,AFR,2004.0,Meningococcal A conjugate vaccine,YES
+DZA,Algeria,AFR,,Yellow fever vaccine,NO
+DZA,Algeria,AFR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+ECU,Ecuador,AMR,2020.0,Rotavirus vaccine,YES
+ECU,Ecuador,AMR,2009.0,Pneumococcal conjugate vaccine,YES
+ECU,Ecuador,AMR,,Human papillomavirus vaccine,NO
+ECU,Ecuador,AMR,2011.0,Hepatitis B birth dose,YES
+ECU,Ecuador,AMR,2011.0,Inactivated polio vaccine,YES
+ECU,Ecuador,AMR,2005.0,Yellow fever vaccine,YES
+ECU,Ecuador,AMR,2021.0,"Rubella-containing vaccine, 1st dose",YES
+EGY,Egypt,EMR,2004.0,Rotavirus vaccine,YES
+EGY,Egypt,EMR,2007.0,Pneumococcal conjugate vaccine,YES
+EGY,Egypt,EMR,2017.0,Human papillomavirus vaccine,YES
+EGY,Egypt,EMR,2011.0,Hepatitis B birth dose,YES
+EGY,Egypt,EMR,2020.0,Inactivated polio vaccine,YES
+EGY,Egypt,EMR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+ERI,Eritrea,AFR,2009.0,Rotavirus vaccine,YES
+ERI,Eritrea,AFR,,Pneumococcal conjugate vaccine,NO
+ERI,Eritrea,AFR,2016.0,Human papillomavirus vaccine,YES
+ERI,Eritrea,AFR,2017.0,Hepatitis B birth dose,YES
+ERI,Eritrea,AFR,2012.0,Inactivated polio vaccine,YES
+ERI,Eritrea,AFR,,Meningococcal A conjugate vaccine,NO
+ERI,Eritrea,AFR,2012.0,Yellow fever vaccine,YES
+ERI,Eritrea,AFR,,"Rubella-containing vaccine, 1st dose",NO
+ESP,Spain,EUR,2018.0,Rotavirus vaccine,YES
+ESP,Spain,EUR,,Pneumococcal conjugate vaccine,NO
+ESP,Spain,EUR,2002.0,Human papillomavirus vaccine,YES
+ESP,Spain,EUR,2020.0,Hepatitis B birth dose,YES
+ESP,Spain,EUR,2020.0,Inactivated polio vaccine,YES
+ESP,Spain,EUR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+EST,Estonia,EUR,2023.0,Rotavirus vaccine,YES
+EST,Estonia,EUR,2022.0,Pneumococcal conjugate vaccine,YES
+EST,Estonia,EUR,2000.0,Human papillomavirus vaccine,YES
+EST,Estonia,EUR,2008.0,Hepatitis B birth dose,YES
+EST,Estonia,EUR,2014.0,Inactivated polio vaccine,YES
+EST,Estonia,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+ETH,Ethiopia,AFR,2003.0,Rotavirus vaccine,YES
+ETH,Ethiopia,AFR,2014.0,Pneumococcal conjugate vaccine,YES
+ETH,Ethiopia,AFR,2004.0,Human papillomavirus vaccine,YES
+ETH,Ethiopia,AFR,2016.0,Hepatitis B birth dose,YES
+ETH,Ethiopia,AFR,,Inactivated polio vaccine,NO
+ETH,Ethiopia,AFR,2021.0,Meningococcal A conjugate vaccine,YES
+ETH,Ethiopia,AFR,,Yellow fever vaccine,NO
+ETH,Ethiopia,AFR,,"Rubella-containing vaccine, 1st dose",NO
+FIN,Finland,EUR,,Rotavirus vaccine,NO
+FIN,Finland,EUR,,Pneumococcal conjugate vaccine,NO
+FIN,Finland,EUR,,Human papillomavirus vaccine,NO
+FIN,Finland,EUR,,Hepatitis B birth dose,NO
+FIN,Finland,EUR,2011.0,Inactivated polio vaccine,YES
+FIN,Finland,EUR,,"Rubella-containing vaccine, 1st dose",NO
+FJI,Fiji,WPR,2015.0,Rotavirus vaccine,YES
+FJI,Fiji,WPR,2013.0,Pneumococcal conjugate vaccine,YES
+FJI,Fiji,WPR,,Human papillomavirus vaccine,NO
+FJI,Fiji,WPR,,Hepatitis B birth dose,NO
+FJI,Fiji,WPR,2019.0,Inactivated polio vaccine,YES
+FJI,Fiji,WPR,,Japanese encephalitis vaccine,NO
+FJI,Fiji,WPR,2017.0,"Rubella-containing vaccine, 1st dose",YES
+FLK,Falkland Islands (Malvinas),AMR,2007.0,Rotavirus vaccine,YES
+FLK,Falkland Islands (Malvinas),AMR,,Pneumococcal conjugate vaccine,NO
+FLK,Falkland Islands (Malvinas),AMR,2000.0,Human papillomavirus vaccine,YES
+FLK,Falkland Islands (Malvinas),AMR,,Hepatitis B birth dose,NO
+FLK,Falkland Islands (Malvinas),AMR,2007.0,Inactivated polio vaccine,YES
+FLK,Falkland Islands (Malvinas),AMR,2023.0,Yellow fever vaccine,YES
+FLK,Falkland Islands (Malvinas),AMR,,"Rubella-containing vaccine, 1st dose",NO
+FRA,France,EUR,2005.0,Rotavirus vaccine,YES
+FRA,France,EUR,,Pneumococcal conjugate vaccine,NO
+FRA,France,EUR,,Human papillomavirus vaccine,NO
+FRA,France,EUR,,Hepatitis B birth dose,NO
+FRA,France,EUR,2013.0,Inactivated polio vaccine,YES
+FRA,France,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+FRO,Faroe Islands,EUR,2001.0,Rotavirus vaccine,YES
+FRO,Faroe Islands,EUR,2018.0,Pneumococcal conjugate vaccine,YES
+FRO,Faroe Islands,EUR,,Human papillomavirus vaccine,NO
+FRO,Faroe Islands,EUR,,Hepatitis B birth dose,NO
+FRO,Faroe Islands,EUR,,Inactivated polio vaccine,NO
+FRO,Faroe Islands,EUR,,"Rubella-containing vaccine, 1st dose",NO
+FSM,Micronesia (Federated States of),WPR,2017.0,Rotavirus vaccine,YES
+FSM,Micronesia (Federated States of),WPR,2002.0,Pneumococcal conjugate vaccine,YES
+FSM,Micronesia (Federated States of),WPR,,Human papillomavirus vaccine,NO
+FSM,Micronesia (Federated States of),WPR,2014.0,Hepatitis B birth dose,YES
+FSM,Micronesia (Federated States of),WPR,2006.0,Inactivated polio vaccine,YES
+FSM,Micronesia (Federated States of),WPR,2016.0,Japanese encephalitis vaccine,YES
+FSM,Micronesia (Federated States of),WPR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+GAB,Gabon,AFR,2021.0,Rotavirus vaccine,YES
+GAB,Gabon,AFR,2009.0,Pneumococcal conjugate vaccine,YES
+GAB,Gabon,AFR,2020.0,Human papillomavirus vaccine,YES
+GAB,Gabon,AFR,,Hepatitis B birth dose,NO
+GAB,Gabon,AFR,2017.0,Inactivated polio vaccine,YES
+GAB,Gabon,AFR,2014.0,Meningococcal A conjugate vaccine,YES
+GAB,Gabon,AFR,2013.0,Yellow fever vaccine,YES
+GAB,Gabon,AFR,2021.0,"Rubella-containing vaccine, 1st dose",YES
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,2016.0,Rotavirus vaccine,YES
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,2008.0,Pneumococcal conjugate vaccine,YES
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,,Human papillomavirus vaccine,NO
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,,Hepatitis B birth dose,NO
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,2018.0,Inactivated polio vaccine,YES
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+GEO,Georgia,EUR,2004.0,Rotavirus vaccine,YES
+GEO,Georgia,EUR,2023.0,Pneumococcal conjugate vaccine,YES
+GEO,Georgia,EUR,2001.0,Human papillomavirus vaccine,YES
+GEO,Georgia,EUR,,Hepatitis B birth dose,NO
+GEO,Georgia,EUR,2009.0,Inactivated polio vaccine,YES
+GEO,Georgia,EUR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+GHA,Ghana,AFR,2008.0,Rotavirus vaccine,YES
+GHA,Ghana,AFR,2013.0,Pneumococcal conjugate vaccine,YES
+GHA,Ghana,AFR,2000.0,Human papillomavirus vaccine,YES
+GHA,Ghana,AFR,2021.0,Hepatitis B birth dose,YES
+GHA,Ghana,AFR,2008.0,Inactivated polio vaccine,YES
+GHA,Ghana,AFR,,Meningococcal A conjugate vaccine,NO
+GHA,Ghana,AFR,,Yellow fever vaccine,NO
+GHA,Ghana,AFR,2023.0,"Rubella-containing vaccine, 1st dose",YES
+GIB,Gibraltar,EUR,,Rotavirus vaccine,NO
+GIB,Gibraltar,EUR,2006.0,Pneumococcal conjugate vaccine,YES
+GIB,Gibraltar,EUR,2021.0,Human papillomavirus vaccine,YES
+GIB,Gibraltar,EUR,2021.0,Hepatitis B birth dose,YES
+GIB,Gibraltar,EUR,,Inactivated polio vaccine,NO
+GIB,Gibraltar,EUR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+GIN,Guinea,AFR,2015.0,Rotavirus vaccine,YES
+GIN,Guinea,AFR,2007.0,Pneumococcal conjugate vaccine,YES
+GIN,Guinea,AFR,2007.0,Human papillomavirus vaccine,YES
+GIN,Guinea,AFR,,Hepatitis B birth dose,NO
+GIN,Guinea,AFR,2001.0,Inactivated polio vaccine,YES
+GIN,Guinea,AFR,,Meningococcal A conjugate vaccine,NO
+GIN,Guinea,AFR,,Yellow fever vaccine,NO
+GIN,Guinea,AFR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+GLP,Guadeloupe,AMR,2022.0,Rotavirus vaccine,YES
+GLP,Guadeloupe,AMR,2023.0,Pneumococcal conjugate vaccine,YES
+GLP,Guadeloupe,AMR,,Human papillomavirus vaccine,NO
+GLP,Guadeloupe,AMR,,Hepatitis B birth dose,NO
+GLP,Guadeloupe,AMR,,Inactivated polio vaccine,NO
+GLP,Guadeloupe,AMR,2004.0,Yellow fever vaccine,YES
+GLP,Guadeloupe,AMR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+GMB,Gambia,AFR,2007.0,Rotavirus vaccine,YES
+GMB,Gambia,AFR,2022.0,Pneumococcal conjugate vaccine,YES
+GMB,Gambia,AFR,2003.0,Human papillomavirus vaccine,YES
+GMB,Gambia,AFR,,Hepatitis B birth dose,NO
+GMB,Gambia,AFR,2000.0,Inactivated polio vaccine,YES
+GMB,Gambia,AFR,2001.0,Meningococcal A conjugate vaccine,YES
+GMB,Gambia,AFR,2005.0,Yellow fever vaccine,YES
+GMB,Gambia,AFR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+GNB,Guinea-Bissau,AFR,2012.0,Rotavirus vaccine,YES
+GNB,Guinea-Bissau,AFR,2020.0,Pneumococcal conjugate vaccine,YES
+GNB,Guinea-Bissau,AFR,2002.0,Human papillomavirus vaccine,YES
+GNB,Guinea-Bissau,AFR,2021.0,Hepatitis B birth dose,YES
+GNB,Guinea-Bissau,AFR,2016.0,Inactivated polio vaccine,YES
+GNB,Guinea-Bissau,AFR,2011.0,Meningococcal A conjugate vaccine,YES
+GNB,Guinea-Bissau,AFR,2009.0,Yellow fever vaccine,YES
+GNB,Guinea-Bissau,AFR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+GNQ,Equatorial Guinea,AFR,,Rotavirus vaccine,NO
+GNQ,Equatorial Guinea,AFR,2002.0,Pneumococcal conjugate vaccine,YES
+GNQ,Equatorial Guinea,AFR,2006.0,Human papillomavirus vaccine,YES
+GNQ,Equatorial Guinea,AFR,2011.0,Hepatitis B birth dose,YES
+GNQ,Equatorial Guinea,AFR,2013.0,Inactivated polio vaccine,YES
+GNQ,Equatorial Guinea,AFR,,Meningococcal A conjugate vaccine,NO
+GNQ,Equatorial Guinea,AFR,2018.0,Yellow fever vaccine,YES
+GNQ,Equatorial Guinea,AFR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+GRC,Greece,EUR,2005.0,Rotavirus vaccine,YES
+GRC,Greece,EUR,2008.0,Pneumococcal conjugate vaccine,YES
+GRC,Greece,EUR,2005.0,Human papillomavirus vaccine,YES
+GRC,Greece,EUR,,Hepatitis B birth dose,NO
+GRC,Greece,EUR,2011.0,Inactivated polio vaccine,YES
+GRC,Greece,EUR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+GRD,Grenada,AMR,2014.0,Rotavirus vaccine,YES
+GRD,Grenada,AMR,2001.0,Pneumococcal conjugate vaccine,YES
+GRD,Grenada,AMR,,Human papillomavirus vaccine,NO
+GRD,Grenada,AMR,2022.0,Hepatitis B birth dose,YES
+GRD,Grenada,AMR,2004.0,Inactivated polio vaccine,YES
+GRD,Grenada,AMR,2016.0,Yellow fever vaccine,YES
+GRD,Grenada,AMR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+GRL,Greenland,EUR,2005.0,Rotavirus vaccine,YES
+GRL,Greenland,EUR,,Pneumococcal conjugate vaccine,NO
+GRL,Greenland,EUR,2014.0,Human papillomavirus vaccine,YES
+GRL,Greenland,EUR,,Hepatitis B birth dose,NO
+GRL,Greenland,EUR,2010.0,Inactivated polio vaccine,YES
+GRL,Greenland,EUR,,"Rubella-containing vaccine, 1st dose",NO
+GTM,Guatemala,AMR,,Rotavirus vaccine,NO
+GTM,Guatemala,AMR,2003.0,Pneumococcal conjugate vaccine,YES
+GTM,Guatemala,AMR,,Human papillomavirus vaccine,NO
+GTM,Guatemala,AMR,2023.0,Hepatitis B birth dose,YES
+GTM,Guatemala,AMR,,Inactivated polio vaccine,NO
+GTM,Guatemala,AMR,2014.0,Yellow fever vaccine,YES
+GTM,Guatemala,AMR,,"Rubella-containing vaccine, 1st dose",NO
+GUF,French Guiana,AMR,2013.0,Rotavirus vaccine,YES
+GUF,French Guiana,AMR,2019.0,Pneumococcal conjugate vaccine,YES
+GUF,French Guiana,AMR,2012.0,Human papillomavirus vaccine,YES
+GUF,French Guiana,AMR,2009.0,Hepatitis B birth dose,YES
+GUF,French Guiana,AMR,2020.0,Inactivated polio vaccine,YES
+GUF,French Guiana,AMR,2000.0,Yellow fever vaccine,YES
+GUF,French Guiana,AMR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+GUM,Guam,WPR,,Rotavirus vaccine,NO
+GUM,Guam,WPR,2003.0,Pneumococcal conjugate vaccine,YES
+GUM,Guam,WPR,,Human papillomavirus vaccine,NO
+GUM,Guam,WPR,2002.0,Hepatitis B birth dose,YES
+GUM,Guam,WPR,2021.0,Inactivated polio vaccine,YES
+GUM,Guam,WPR,2018.0,Japanese encephalitis vaccine,YES
+GUM,Guam,WPR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+GUY,Guyana,AMR,2019.0,Rotavirus vaccine,YES
+GUY,Guyana,AMR,,Pneumococcal conjugate vaccine,NO
+GUY,Guyana,AMR,2012.0,Human papillomavirus vaccine,YES
+GUY,Guyana,AMR,2013.0,Hepatitis B birth dose,YES
+GUY,Guyana,AMR,2023.0,Inactivated polio vaccine,YES
+GUY,Guyana,AMR,2013.0,Yellow fever vaccine,YES
+GUY,Guyana,AMR,,"Rubella-containing vaccine, 1st dose",NO
+HND,Honduras,AMR,2021.0,Rotavirus vaccine,YES
+HND,Honduras,AMR,2004.0,Pneumococcal conjugate vaccine,YES
+HND,Honduras,AMR,2006.0,Human papillomavirus vaccine,YES
+HND,Honduras,AMR,2003.0,Hepatitis B birth dose,YES
+HND,Honduras,AMR,2007.0,Inactivated polio vaccine,YES
+HND,Honduras,AMR,,Yellow fever vaccine,NO
+HND,Honduras,AMR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+HRV,Croatia,EUR,2014.0,Rotavirus vaccine,YES
+HRV,Croatia,EUR,,Pneumococcal conjugate vaccine,NO
+HRV,Croatia,EUR,2014.0,Human papillomavirus vaccine,YES
+HRV,Croatia,EUR,2014.0,Hepatitis B birth dose,YES
+HRV,Croatia,EUR,2018.0,Inactivated polio vaccine,YES
+HRV,Croatia,EUR,,"Rubella-containing vaccine, 1st dose",NO
+HTI,Haiti,AMR,2016.0,Rotavirus vaccine,YES
+HTI,Haiti,AMR,,Pneumococcal conjugate vaccine,NO
+HTI,Haiti,AMR,,Human papillomavirus vaccine,NO
+HTI,Haiti,AMR,2022.0,Hepatitis B birth dose,YES
+HTI,Haiti,AMR,2012.0,Inactivated polio vaccine,YES
+HTI,Haiti,AMR,,Yellow fever vaccine,NO
+HTI,Haiti,AMR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+HUN,Hungary,EUR,2009.0,Rotavirus vaccine,YES
+HUN,Hungary,EUR,,Pneumococcal conjugate vaccine,NO
+HUN,Hungary,EUR,2003.0,Human papillomavirus vaccine,YES
+HUN,Hungary,EUR,2016.0,Hepatitis B birth dose,YES
+HUN,Hungary,EUR,,Inactivated polio vaccine,NO
+HUN,Hungary,EUR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+IDN,Indonesia,WPR,,Rotavirus vaccine,NO
+IDN,Indonesia,WPR,,Pneumococcal conjugate vaccine,NO
+IDN,Indonesia,WPR,2004.0,Human papillomavirus vaccine,YES
+IDN,Indonesia,WPR,2021.0,Hepatitis B birth dose,YES
+IDN,Indonesia,WPR,,Inactivated polio vaccine,NO
+IDN,Indonesia,WPR,2017.0,Japanese encephalitis vaccine,YES
+IDN,Indonesia,WPR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+IMN,Isle of Man,EUR,,Rotavirus vaccine,NO
+IMN,Isle of Man,EUR,,Pneumococcal conjugate vaccine,NO
+IMN,Isle of Man,EUR,2017.0,Human papillomavirus vaccine,YES
+IMN,Isle of Man,EUR,2018.0,Hepatitis B birth dose,YES
+IMN,Isle of Man,EUR,,Inactivated polio vaccine,NO
+IMN,Isle of Man,EUR,,"Rubella-containing vaccine, 1st dose",NO
+IND,India,SEAR,2021.0,Rotavirus vaccine,YES
+IND,India,SEAR,2010.0,Pneumococcal conjugate vaccine,YES
+IND,India,SEAR,2017.0,Human papillomavirus vaccine,YES
+IND,India,SEAR,,Hepatitis B birth dose,NO
+IND,India,SEAR,2019.0,Inactivated polio vaccine,YES
+IND,India,SEAR,,Japanese encephalitis vaccine,NO
+IND,India,SEAR,2017.0,"Rubella-containing vaccine, 1st dose",YES
+IRL,Ireland,EUR,2008.0,Rotavirus vaccine,YES
+IRL,Ireland,EUR,2014.0,Pneumococcal conjugate vaccine,YES
+IRL,Ireland,EUR,2000.0,Human papillomavirus vaccine,YES
+IRL,Ireland,EUR,,Hepatitis B birth dose,NO
+IRL,Ireland,EUR,2014.0,Inactivated polio vaccine,YES
+IRL,Ireland,EUR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+IRN,Iran (Islamic Republic of),EMR,2009.0,Rotavirus vaccine,YES
+IRN,Iran (Islamic Republic of),EMR,2007.0,Pneumococcal conjugate vaccine,YES
+IRN,Iran (Islamic Republic of),EMR,2003.0,Human papillomavirus vaccine,YES
+IRN,Iran (Islamic Republic of),EMR,2000.0,Hepatitis B birth dose,YES
+IRN,Iran (Islamic Republic of),EMR,2022.0,Inactivated polio vaccine,YES
+IRN,Iran (Islamic Republic of),EMR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+IRQ,Iraq,EMR,,Rotavirus vaccine,NO
+IRQ,Iraq,EMR,2018.0,Pneumococcal conjugate vaccine,YES
+IRQ,Iraq,EMR,2023.0,Human papillomavirus vaccine,YES
+IRQ,Iraq,EMR,2004.0,Hepatitis B birth dose,YES
+IRQ,Iraq,EMR,2010.0,Inactivated polio vaccine,YES
+IRQ,Iraq,EMR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+ISL,Iceland,EUR,2002.0,Rotavirus vaccine,YES
+ISL,Iceland,EUR,2023.0,Pneumococcal conjugate vaccine,YES
+ISL,Iceland,EUR,2021.0,Human papillomavirus vaccine,YES
+ISL,Iceland,EUR,2002.0,Hepatitis B birth dose,YES
+ISL,Iceland,EUR,2007.0,Inactivated polio vaccine,YES
+ISL,Iceland,EUR,,"Rubella-containing vaccine, 1st dose",NO
+ISR,Israel,EUR,,Rotavirus vaccine,NO
+ISR,Israel,EUR,,Pneumococcal conjugate vaccine,NO
+ISR,Israel,EUR,,Human papillomavirus vaccine,NO
+ISR,Israel,EUR,,Hepatitis B birth dose,NO
+ISR,Israel,EUR,2018.0,Inactivated polio vaccine,YES
+ISR,Israel,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+ITA,Italy,EUR,2007.0,Rotavirus vaccine,YES
+ITA,Italy,EUR,2019.0,Pneumococcal conjugate vaccine,YES
+ITA,Italy,EUR,2020.0,Human papillomavirus vaccine,YES
+ITA,Italy,EUR,2012.0,Hepatitis B birth dose,YES
+ITA,Italy,EUR,2003.0,Inactivated polio vaccine,YES
+ITA,Italy,EUR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+JAM,Jamaica,AMR,2020.0,Rotavirus vaccine,YES
+JAM,Jamaica,AMR,,Pneumococcal conjugate vaccine,NO
+JAM,Jamaica,AMR,2020.0,Human papillomavirus vaccine,YES
+JAM,Jamaica,AMR,2008.0,Hepatitis B birth dose,YES
+JAM,Jamaica,AMR,,Inactivated polio vaccine,NO
+JAM,Jamaica,AMR,,Yellow fever vaccine,NO
+JAM,Jamaica,AMR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+JOR,Jordan,EMR,2022.0,Rotavirus vaccine,YES
+JOR,Jordan,EMR,,Pneumococcal conjugate vaccine,NO
+JOR,Jordan,EMR,2009.0,Human papillomavirus vaccine,YES
+JOR,Jordan,EMR,,Hepatitis B birth dose,NO
+JOR,Jordan,EMR,2006.0,Inactivated polio vaccine,YES
+JOR,Jordan,EMR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+JPN,Japan,WPR,2010.0,Rotavirus vaccine,YES
+JPN,Japan,WPR,2003.0,Pneumococcal conjugate vaccine,YES
+JPN,Japan,WPR,,Human papillomavirus vaccine,NO
+JPN,Japan,WPR,2020.0,Hepatitis B birth dose,YES
+JPN,Japan,WPR,2017.0,Inactivated polio vaccine,YES
+JPN,Japan,WPR,2005.0,Japanese encephalitis vaccine,YES
+JPN,Japan,WPR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+KAZ,Kazakhstan,EUR,,Rotavirus vaccine,NO
+KAZ,Kazakhstan,EUR,,Pneumococcal conjugate vaccine,NO
+KAZ,Kazakhstan,EUR,2022.0,Human papillomavirus vaccine,YES
+KAZ,Kazakhstan,EUR,2010.0,Hepatitis B birth dose,YES
+KAZ,Kazakhstan,EUR,2012.0,Inactivated polio vaccine,YES
+KAZ,Kazakhstan,EUR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+KEN,Kenya,AFR,2003.0,Rotavirus vaccine,YES
+KEN,Kenya,AFR,,Pneumococcal conjugate vaccine,NO
+KEN,Kenya,AFR,2020.0,Human papillomavirus vaccine,YES
+KEN,Kenya,AFR,2022.0,Hepatitis B birth dose,YES
+KEN,Kenya,AFR,2023.0,Inactivated polio vaccine,YES
+KEN,Kenya,AFR,2004.0,Meningococcal A conjugate vaccine,YES
+KEN,Kenya,AFR,2009.0,Yellow fever vaccine,YES
+KEN,Kenya,AFR,,"Rubella-containing vaccine, 1st dose",NO
+KGZ,Kyrgyzstan,EUR,2002.0,Rotavirus vaccine,YES
+KGZ,Kyrgyzstan,EUR,2001.0,Pneumococcal conjugate vaccine,YES
+KGZ,Kyrgyzstan,EUR,2011.0,Human papillomavirus vaccine,YES
+KGZ,Kyrgyzstan,EUR,2015.0,Hepatitis B birth dose,YES
+KGZ,Kyrgyzstan,EUR,,Inactivated polio vaccine,NO
+KGZ,Kyrgyzstan,EUR,,"Rubella-containing vaccine, 1st dose",NO
+KHM,Cambodia,WPR,,Rotavirus vaccine,NO
+KHM,Cambodia,WPR,2004.0,Pneumococcal conjugate vaccine,YES
+KHM,Cambodia,WPR,2019.0,Human papillomavirus vaccine,YES
+KHM,Cambodia,WPR,2022.0,Hepatitis B birth dose,YES
+KHM,Cambodia,WPR,2022.0,Inactivated polio vaccine,YES
+KHM,Cambodia,WPR,,Japanese encephalitis vaccine,NO
+KHM,Cambodia,WPR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+KIR,Kiribati,WPR,,Rotavirus vaccine,NO
+KIR,Kiribati,WPR,,Pneumococcal conjugate vaccine,NO
+KIR,Kiribati,WPR,2005.0,Human papillomavirus vaccine,YES
+KIR,Kiribati,WPR,2022.0,Hepatitis B birth dose,YES
+KIR,Kiribati,WPR,2018.0,Inactivated polio vaccine,YES
+KIR,Kiribati,WPR,,Japanese encephalitis vaccine,NO
+KIR,Kiribati,WPR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+KNA,Saint Kitts and Nevis,AMR,2009.0,Rotavirus vaccine,YES
+KNA,Saint Kitts and Nevis,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+KNA,Saint Kitts and Nevis,AMR,2018.0,Human papillomavirus vaccine,YES
+KNA,Saint Kitts and Nevis,AMR,2015.0,Hepatitis B birth dose,YES
+KNA,Saint Kitts and Nevis,AMR,,Inactivated polio vaccine,NO
+KNA,Saint Kitts and Nevis,AMR,2009.0,Yellow fever vaccine,YES
+KNA,Saint Kitts and Nevis,AMR,2017.0,"Rubella-containing vaccine, 1st dose",YES
+KOR,Republic of Korea,WPR,2015.0,Rotavirus vaccine,YES
+KOR,Republic of Korea,WPR,2014.0,Pneumococcal conjugate vaccine,YES
+KOR,Republic of Korea,WPR,,Human papillomavirus vaccine,NO
+KOR,Republic of Korea,WPR,2013.0,Hepatitis B birth dose,YES
+KOR,Republic of Korea,WPR,2004.0,Inactivated polio vaccine,YES
+KOR,Republic of Korea,WPR,,Japanese encephalitis vaccine,NO
+KOR,Republic of Korea,WPR,2023.0,"Rubella-containing vaccine, 1st dose",YES
+KWT,Kuwait,EMR,,Rotavirus vaccine,NO
+KWT,Kuwait,EMR,,Pneumococcal conjugate vaccine,NO
+KWT,Kuwait,EMR,,Human papillomavirus vaccine,NO
+KWT,Kuwait,EMR,2010.0,Hepatitis B birth dose,YES
+KWT,Kuwait,EMR,2004.0,Inactivated polio vaccine,YES
+KWT,Kuwait,EMR,,"Rubella-containing vaccine, 1st dose",NO
+LAO,Lao People's Democratic Republic,WPR,2007.0,Rotavirus vaccine,YES
+LAO,Lao People's Democratic Republic,WPR,,Pneumococcal conjugate vaccine,NO
+LAO,Lao People's Democratic Republic,WPR,2021.0,Human papillomavirus vaccine,YES
+LAO,Lao People's Democratic Republic,WPR,2013.0,Hepatitis B birth dose,YES
+LAO,Lao People's Democratic Republic,WPR,2017.0,Inactivated polio vaccine,YES
+LAO,Lao People's Democratic Republic,WPR,2021.0,Japanese encephalitis vaccine,YES
+LAO,Lao People's Democratic Republic,WPR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+LBN,Lebanon,EMR,2008.0,Rotavirus vaccine,YES
+LBN,Lebanon,EMR,2006.0,Pneumococcal conjugate vaccine,YES
+LBN,Lebanon,EMR,2003.0,Human papillomavirus vaccine,YES
+LBN,Lebanon,EMR,2003.0,Hepatitis B birth dose,YES
+LBN,Lebanon,EMR,2015.0,Inactivated polio vaccine,YES
+LBN,Lebanon,EMR,2021.0,"Rubella-containing vaccine, 1st dose",YES
+LBR,Liberia,AFR,2007.0,Rotavirus vaccine,YES
+LBR,Liberia,AFR,,Pneumococcal conjugate vaccine,NO
+LBR,Liberia,AFR,,Human papillomavirus vaccine,NO
+LBR,Liberia,AFR,2021.0,Hepatitis B birth dose,YES
+LBR,Liberia,AFR,2016.0,Inactivated polio vaccine,YES
+LBR,Liberia,AFR,2018.0,Meningococcal A conjugate vaccine,YES
+LBR,Liberia,AFR,2003.0,Yellow fever vaccine,YES
+LBR,Liberia,AFR,2021.0,"Rubella-containing vaccine, 1st dose",YES
+LBY,Libya,EMR,2021.0,Rotavirus vaccine,YES
+LBY,Libya,EMR,2013.0,Pneumococcal conjugate vaccine,YES
+LBY,Libya,EMR,,Human papillomavirus vaccine,NO
+LBY,Libya,EMR,2016.0,Hepatitis B birth dose,YES
+LBY,Libya,EMR,2007.0,Inactivated polio vaccine,YES
+LBY,Libya,EMR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+LCA,Saint Lucia,AMR,,Rotavirus vaccine,NO
+LCA,Saint Lucia,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+LCA,Saint Lucia,AMR,2016.0,Human papillomavirus vaccine,YES
+LCA,Saint Lucia,AMR,2016.0,Hepatitis B birth dose,YES
+LCA,Saint Lucia,AMR,2021.0,Inactivated polio vaccine,YES
+LCA,Saint Lucia,AMR,2004.0,Yellow fever vaccine,YES
+LCA,Saint Lucia,AMR,,"Rubella-containing vaccine, 1st dose",NO
+LIE,Liechtenstein,EUR,2022.0,Rotavirus vaccine,YES
+LIE,Liechtenstein,EUR,2016.0,Pneumococcal conjugate vaccine,YES
+LIE,Liechtenstein,EUR,2011.0,Human papillomavirus vaccine,YES
+LIE,Liechtenstein,EUR,2019.0,Hepatitis B birth dose,YES
+LIE,Liechtenstein,EUR,,Inactivated polio vaccine,NO
+LIE,Liechtenstein,EUR,,"Rubella-containing vaccine, 1st dose",NO
+LKA,Sri Lanka,SEAR,,Rotavirus vaccine,NO
+LKA,Sri Lanka,SEAR,,Pneumococcal conjugate vaccine,NO
+LKA,Sri Lanka,SEAR,,Human papillomavirus vaccine,NO
+LKA,Sri Lanka,SEAR,,Hepatitis B birth dose,NO
+LKA,Sri Lanka,SEAR,,Inactivated polio vaccine,NO
+LKA,Sri Lanka,SEAR,2005.0,Japanese encephalitis vaccine,YES
+LKA,Sri Lanka,SEAR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+LSO,Lesotho,AFR,2005.0,Rotavirus vaccine,YES
+LSO,Lesotho,AFR,2007.0,Pneumococcal conjugate vaccine,YES
+LSO,Lesotho,AFR,2006.0,Human papillomavirus vaccine,YES
+LSO,Lesotho,AFR,2006.0,Hepatitis B birth dose,YES
+LSO,Lesotho,AFR,,Inactivated polio vaccine,NO
+LSO,Lesotho,AFR,,Meningococcal A conjugate vaccine,NO
+LSO,Lesotho,AFR,2005.0,Yellow fever vaccine,YES
+LSO,Lesotho,AFR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+LTU,Lithuania,EUR,,Rotavirus vaccine,NO
+LTU,Lithuania,EUR,,Pneumococcal conjugate vaccine,NO
+LTU,Lithuania,EUR,2008.0,Human papillomavirus vaccine,YES
+LTU,Lithuania,EUR,,Hepatitis B birth dose,NO
+LTU,Lithuania,EUR,2002.0,Inactivated polio vaccine,YES
+LTU,Lithuania,EUR,,"Rubella-containing vaccine, 1st dose",NO
+LUX,Luxembourg,EUR,2009.0,Rotavirus vaccine,YES
+LUX,Luxembourg,EUR,2000.0,Pneumococcal conjugate vaccine,YES
+LUX,Luxembourg,EUR,2010.0,Human papillomavirus vaccine,YES
+LUX,Luxembourg,EUR,,Hepatitis B birth dose,NO
+LUX,Luxembourg,EUR,,Inactivated polio vaccine,NO
+LUX,Luxembourg,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+LVA,Latvia,EUR,,Rotavirus vaccine,NO
+LVA,Latvia,EUR,2003.0,Pneumococcal conjugate vaccine,YES
+LVA,Latvia,EUR,,Human papillomavirus vaccine,NO
+LVA,Latvia,EUR,2010.0,Hepatitis B birth dose,YES
+LVA,Latvia,EUR,,Inactivated polio vaccine,NO
+LVA,Latvia,EUR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+MAR,Morocco,EMR,2012.0,Rotavirus vaccine,YES
+MAR,Morocco,EMR,2013.0,Pneumococcal conjugate vaccine,YES
+MAR,Morocco,EMR,2019.0,Human papillomavirus vaccine,YES
+MAR,Morocco,EMR,,Hepatitis B birth dose,NO
+MAR,Morocco,EMR,,Inactivated polio vaccine,NO
+MAR,Morocco,EMR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+MCO,Monaco,EUR,2016.0,Rotavirus vaccine,YES
+MCO,Monaco,EUR,,Pneumococcal conjugate vaccine,NO
+MCO,Monaco,EUR,2017.0,Human papillomavirus vaccine,YES
+MCO,Monaco,EUR,2004.0,Hepatitis B birth dose,YES
+MCO,Monaco,EUR,2010.0,Inactivated polio vaccine,YES
+MCO,Monaco,EUR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+MDA,Republic of Moldova,EUR,,Rotavirus vaccine,NO
+MDA,Republic of Moldova,EUR,,Pneumococcal conjugate vaccine,NO
+MDA,Republic of Moldova,EUR,,Human papillomavirus vaccine,NO
+MDA,Republic of Moldova,EUR,2008.0,Hepatitis B birth dose,YES
+MDA,Republic of Moldova,EUR,2005.0,Inactivated polio vaccine,YES
+MDA,Republic of Moldova,EUR,,"Rubella-containing vaccine, 1st dose",NO
+MDG,Madagascar,AFR,2017.0,Rotavirus vaccine,YES
+MDG,Madagascar,AFR,,Pneumococcal conjugate vaccine,NO
+MDG,Madagascar,AFR,2013.0,Human papillomavirus vaccine,YES
+MDG,Madagascar,AFR,2021.0,Hepatitis B birth dose,YES
+MDG,Madagascar,AFR,2007.0,Inactivated polio vaccine,YES
+MDG,Madagascar,AFR,2012.0,Meningococcal A conjugate vaccine,YES
+MDG,Madagascar,AFR,2005.0,Yellow fever vaccine,YES
+MDG,Madagascar,AFR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+MDV,Maldives,SEAR,,Rotavirus vaccine,NO
+MDV,Maldives,SEAR,2008.0,Pneumococcal conjugate vaccine,YES
+MDV,Maldives,SEAR,,Human papillomavirus vaccine,NO
+MDV,Maldives,SEAR,2015.0,Hepatitis B birth dose,YES
+MDV,Maldives,SEAR,2001.0,Inactivated polio vaccine,YES
+MDV,Maldives,SEAR,,Japanese encephalitis vaccine,NO
+MDV,Maldives,SEAR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+MEX,Mexico,AMR,,Rotavirus vaccine,NO
+MEX,Mexico,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+MEX,Mexico,AMR,,Human papillomavirus vaccine,NO
+MEX,Mexico,AMR,2009.0,Hepatitis B birth dose,YES
+MEX,Mexico,AMR,,Inactivated polio vaccine,NO
+MEX,Mexico,AMR,2012.0,Yellow fever vaccine,YES
+MEX,Mexico,AMR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+MHL,Marshall Islands,WPR,2009.0,Rotavirus vaccine,YES
+MHL,Marshall Islands,WPR,2005.0,Pneumococcal conjugate vaccine,YES
+MHL,Marshall Islands,WPR,,Human papillomavirus vaccine,NO
+MHL,Marshall Islands,WPR,2018.0,Hepatitis B birth dose,YES
+MHL,Marshall Islands,WPR,2002.0,Inactivated polio vaccine,YES
+MHL,Marshall Islands,WPR,2001.0,Japanese encephalitis vaccine,YES
+MHL,Marshall Islands,WPR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+MKD,North Macedonia,EUR,,Rotavirus vaccine,NO
+MKD,North Macedonia,EUR,2023.0,Pneumococcal conjugate vaccine,YES
+MKD,North Macedonia,EUR,2015.0,Human papillomavirus vaccine,YES
+MKD,North Macedonia,EUR,2004.0,Hepatitis B birth dose,YES
+MKD,North Macedonia,EUR,,Inactivated polio vaccine,NO
+MKD,North Macedonia,EUR,,"Rubella-containing vaccine, 1st dose",NO
+MLI,Mali,AFR,2021.0,Rotavirus vaccine,YES
+MLI,Mali,AFR,2011.0,Pneumococcal conjugate vaccine,YES
+MLI,Mali,AFR,2015.0,Human papillomavirus vaccine,YES
+MLI,Mali,AFR,,Hepatitis B birth dose,NO
+MLI,Mali,AFR,2017.0,Inactivated polio vaccine,YES
+MLI,Mali,AFR,,Meningococcal A conjugate vaccine,NO
+MLI,Mali,AFR,2013.0,Yellow fever vaccine,YES
+MLI,Mali,AFR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+MLT,Malta,EUR,2001.0,Rotavirus vaccine,YES
+MLT,Malta,EUR,2014.0,Pneumococcal conjugate vaccine,YES
+MLT,Malta,EUR,2006.0,Human papillomavirus vaccine,YES
+MLT,Malta,EUR,,Hepatitis B birth dose,NO
+MLT,Malta,EUR,,Inactivated polio vaccine,NO
+MLT,Malta,EUR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+MMR,Myanmar,SEAR,2009.0,Rotavirus vaccine,YES
+MMR,Myanmar,SEAR,2003.0,Pneumococcal conjugate vaccine,YES
+MMR,Myanmar,SEAR,2007.0,Human papillomavirus vaccine,YES
+MMR,Myanmar,SEAR,2020.0,Hepatitis B birth dose,YES
+MMR,Myanmar,SEAR,2001.0,Inactivated polio vaccine,YES
+MMR,Myanmar,SEAR,2014.0,Japanese encephalitis vaccine,YES
+MMR,Myanmar,SEAR,2021.0,"Rubella-containing vaccine, 1st dose",YES
+MNE,Montenegro,EUR,2020.0,Rotavirus vaccine,YES
+MNE,Montenegro,EUR,2021.0,Pneumococcal conjugate vaccine,YES
+MNE,Montenegro,EUR,2020.0,Human papillomavirus vaccine,YES
+MNE,Montenegro,EUR,2022.0,Hepatitis B birth dose,YES
+MNE,Montenegro,EUR,2011.0,Inactivated polio vaccine,YES
+MNE,Montenegro,EUR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+MNG,Mongolia,WPR,2000.0,Rotavirus vaccine,YES
+MNG,Mongolia,WPR,2005.0,Pneumococcal conjugate vaccine,YES
+MNG,Mongolia,WPR,2002.0,Human papillomavirus vaccine,YES
+MNG,Mongolia,WPR,2010.0,Hepatitis B birth dose,YES
+MNG,Mongolia,WPR,2015.0,Inactivated polio vaccine,YES
+MNG,Mongolia,WPR,2020.0,Japanese encephalitis vaccine,YES
+MNG,Mongolia,WPR,2005.0,"Rubella-containing vaccine, 1st dose",YES
+MNP,Northern Mariana Islands,WPR,2001.0,Rotavirus vaccine,YES
+MNP,Northern Mariana Islands,WPR,2022.0,Pneumococcal conjugate vaccine,YES
+MNP,Northern Mariana Islands,WPR,2014.0,Human papillomavirus vaccine,YES
+MNP,Northern Mariana Islands,WPR,,Hepatitis B birth dose,NO
+MNP,Northern Mariana Islands,WPR,,Inactivated polio vaccine,NO
+MNP,Northern Mariana Islands,WPR,2018.0,Japanese encephalitis vaccine,YES
+MNP,Northern Mariana Islands,WPR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+MOZ,Mozambique,AFR,2009.0,Rotavirus vaccine,YES
+MOZ,Mozambique,AFR,,Pneumococcal conjugate vaccine,NO
+MOZ,Mozambique,AFR,,Human papillomavirus vaccine,NO
+MOZ,Mozambique,AFR,,Hepatitis B birth dose,NO
+MOZ,Mozambique,AFR,2002.0,Inactivated polio vaccine,YES
+MOZ,Mozambique,AFR,,Meningococcal A conjugate vaccine,NO
+MOZ,Mozambique,AFR,2005.0,Yellow fever vaccine,YES
+MOZ,Mozambique,AFR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+MRT,Mauritania,AFR,,Rotavirus vaccine,NO
+MRT,Mauritania,AFR,2021.0,Pneumococcal conjugate vaccine,YES
+MRT,Mauritania,AFR,2019.0,Human papillomavirus vaccine,YES
+MRT,Mauritania,AFR,,Hepatitis B birth dose,NO
+MRT,Mauritania,AFR,2012.0,Inactivated polio vaccine,YES
+MRT,Mauritania,AFR,,Meningococcal A conjugate vaccine,NO
+MRT,Mauritania,AFR,2011.0,Yellow fever vaccine,YES
+MRT,Mauritania,AFR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+MSR,Montserrat,AMR,2014.0,Rotavirus vaccine,YES
+MSR,Montserrat,AMR,2005.0,Pneumococcal conjugate vaccine,YES
+MSR,Montserrat,AMR,2004.0,Human papillomavirus vaccine,YES
+MSR,Montserrat,AMR,,Hepatitis B birth dose,NO
+MSR,Montserrat,AMR,2013.0,Inactivated polio vaccine,YES
+MSR,Montserrat,AMR,2008.0,Yellow fever vaccine,YES
+MSR,Montserrat,AMR,2019.0,"Rubella-containing vaccine, 1st dose",YES
+MTQ,Martinique,AMR,,Rotavirus vaccine,NO
+MTQ,Martinique,AMR,,Pneumococcal conjugate vaccine,NO
+MTQ,Martinique,AMR,2015.0,Human papillomavirus vaccine,YES
+MTQ,Martinique,AMR,2006.0,Hepatitis B birth dose,YES
+MTQ,Martinique,AMR,2010.0,Inactivated polio vaccine,YES
+MTQ,Martinique,AMR,2006.0,Yellow fever vaccine,YES
+MTQ,Martinique,AMR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+MUS,Mauritius,AFR,2023.0,Rotavirus vaccine,YES
+MUS,Mauritius,AFR,2008.0,Pneumococcal conjugate vaccine,YES
+MUS,Mauritius,AFR,2007.0,Human papillomavirus vaccine,YES
+MUS,Mauritius,AFR,,Hepatitis B birth dose,NO
+MUS,Mauritius,AFR,2003.0,Inactivated polio vaccine,YES
+MUS,Mauritius,AFR,2018.0,Meningococcal A conjugate vaccine,YES
+MUS,Mauritius,AFR,,Yellow fever vaccine,NO
+MUS,Mauritius,AFR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+MWI,Malawi,AFR,,Rotavirus vaccine,NO
+MWI,Malawi,AFR,,Pneumococcal conjugate vaccine,NO
+MWI,Malawi,AFR,2002.0,Human papillomavirus vaccine,YES
+MWI,Malawi,AFR,2016.0,Hepatitis B birth dose,YES
+MWI,Malawi,AFR,,Inactivated polio vaccine,NO
+MWI,Malawi,AFR,2002.0,Meningococcal A conjugate vaccine,YES
+MWI,Malawi,AFR,2022.0,Yellow fever vaccine,YES
+MWI,Malawi,AFR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+MYS,Malaysia,WPR,2000.0,Rotavirus vaccine,YES
+MYS,Malaysia,WPR,2001.0,Pneumococcal conjugate vaccine,YES
+MYS,Malaysia,WPR,,Human papillomavirus vaccine,NO
+MYS,Malaysia,WPR,,Hepatitis B birth dose,NO
+MYS,Malaysia,WPR,2000.0,Inactivated polio vaccine,YES
+MYS,Malaysia,WPR,2010.0,Japanese encephalitis vaccine,YES
+MYS,Malaysia,WPR,,"Rubella-containing vaccine, 1st dose",NO
+MYT,Mayotte,AFR,2000.0,Rotavirus vaccine,YES
+MYT,Mayotte,AFR,,Pneumococcal conjugate vaccine,NO
+MYT,Mayotte,AFR,2020.0,Human papillomavirus vaccine,YES
+MYT,Mayotte,AFR,2013.0,Hepatitis B birth dose,YES
+MYT,Mayotte,AFR,2010.0,Inactivated polio vaccine,YES
+MYT,Mayotte,AFR,2018.0,Meningococcal A conjugate vaccine,YES
+MYT,Mayotte,AFR,2005.0,Yellow fever vaccine,YES
+MYT,Mayotte,AFR,,"Rubella-containing vaccine, 1st dose",NO
+NAM,Namibia,AFR,,Rotavirus vaccine,NO
+NAM,Namibia,AFR,2023.0,Pneumococcal conjugate vaccine,YES
+NAM,Namibia,AFR,2023.0,Human papillomavirus vaccine,YES
+NAM,Namibia,AFR,2021.0,Hepatitis B birth dose,YES
+NAM,Namibia,AFR,2009.0,Inactivated polio vaccine,YES
+NAM,Namibia,AFR,2019.0,Meningococcal A conjugate vaccine,YES
+NAM,Namibia,AFR,2015.0,Yellow fever vaccine,YES
+NAM,Namibia,AFR,2023.0,"Rubella-containing vaccine, 1st dose",YES
+NCL,New Caledonia,WPR,2022.0,Rotavirus vaccine,YES
+NCL,New Caledonia,WPR,2008.0,Pneumococcal conjugate vaccine,YES
+NCL,New Caledonia,WPR,2021.0,Human papillomavirus vaccine,YES
+NCL,New Caledonia,WPR,,Hepatitis B birth dose,NO
+NCL,New Caledonia,WPR,2019.0,Inactivated polio vaccine,YES
+NCL,New Caledonia,WPR,2017.0,Japanese encephalitis vaccine,YES
+NCL,New Caledonia,WPR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+NER,Niger,AFR,2012.0,Rotavirus vaccine,YES
+NER,Niger,AFR,2011.0,Pneumococcal conjugate vaccine,YES
+NER,Niger,AFR,2015.0,Human papillomavirus vaccine,YES
+NER,Niger,AFR,2016.0,Hepatitis B birth dose,YES
+NER,Niger,AFR,2003.0,Inactivated polio vaccine,YES
+NER,Niger,AFR,2000.0,Meningococcal A conjugate vaccine,YES
+NER,Niger,AFR,2022.0,Yellow fever vaccine,YES
+NER,Niger,AFR,2005.0,"Rubella-containing vaccine, 1st dose",YES
+NGA,Nigeria,AFR,2011.0,Rotavirus vaccine,YES
+NGA,Nigeria,AFR,2008.0,Pneumococcal conjugate vaccine,YES
+NGA,Nigeria,AFR,,Human papillomavirus vaccine,NO
+NGA,Nigeria,AFR,2005.0,Hepatitis B birth dose,YES
+NGA,Nigeria,AFR,,Inactivated polio vaccine,NO
+NGA,Nigeria,AFR,2019.0,Meningococcal A conjugate vaccine,YES
+NGA,Nigeria,AFR,2023.0,Yellow fever vaccine,YES
+NGA,Nigeria,AFR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+NIC,Nicaragua,AMR,2003.0,Rotavirus vaccine,YES
+NIC,Nicaragua,AMR,2010.0,Pneumococcal conjugate vaccine,YES
+NIC,Nicaragua,AMR,2008.0,Human papillomavirus vaccine,YES
+NIC,Nicaragua,AMR,,Hepatitis B birth dose,NO
+NIC,Nicaragua,AMR,2023.0,Inactivated polio vaccine,YES
+NIC,Nicaragua,AMR,2013.0,Yellow fever vaccine,YES
+NIC,Nicaragua,AMR,,"Rubella-containing vaccine, 1st dose",NO
+NIU,Niue,WPR,2007.0,Rotavirus vaccine,YES
+NIU,Niue,WPR,,Pneumococcal conjugate vaccine,NO
+NIU,Niue,WPR,,Human papillomavirus vaccine,NO
+NIU,Niue,WPR,2006.0,Hepatitis B birth dose,YES
+NIU,Niue,WPR,,Inactivated polio vaccine,NO
+NIU,Niue,WPR,2001.0,Japanese encephalitis vaccine,YES
+NIU,Niue,WPR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+NLD,Netherlands (Kingdom of the),EUR,2021.0,Rotavirus vaccine,YES
+NLD,Netherlands (Kingdom of the),EUR,2019.0,Pneumococcal conjugate vaccine,YES
+NLD,Netherlands (Kingdom of the),EUR,2010.0,Human papillomavirus vaccine,YES
+NLD,Netherlands (Kingdom of the),EUR,,Hepatitis B birth dose,NO
+NLD,Netherlands (Kingdom of the),EUR,2018.0,Inactivated polio vaccine,YES
+NLD,Netherlands (Kingdom of the),EUR,2004.0,"Rubella-containing vaccine, 1st dose",YES
+NOR,Norway,EUR,,Rotavirus vaccine,NO
+NOR,Norway,EUR,2016.0,Pneumococcal conjugate vaccine,YES
+NOR,Norway,EUR,2020.0,Human papillomavirus vaccine,YES
+NOR,Norway,EUR,,Hepatitis B birth dose,NO
+NOR,Norway,EUR,,Inactivated polio vaccine,NO
+NOR,Norway,EUR,,"Rubella-containing vaccine, 1st dose",NO
+NPL,Nepal,SEAR,,Rotavirus vaccine,NO
+NPL,Nepal,SEAR,2022.0,Pneumococcal conjugate vaccine,YES
+NPL,Nepal,SEAR,2019.0,Human papillomavirus vaccine,YES
+NPL,Nepal,SEAR,2023.0,Hepatitis B birth dose,YES
+NPL,Nepal,SEAR,,Inactivated polio vaccine,NO
+NPL,Nepal,SEAR,2021.0,Japanese encephalitis vaccine,YES
+NPL,Nepal,SEAR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+NRU,Naoero,WPR,2010.0,Rotavirus vaccine,YES
+NRU,Naoero,WPR,2004.0,Pneumococcal conjugate vaccine,YES
+NRU,Naoero,WPR,2009.0,Human papillomavirus vaccine,YES
+NRU,Naoero,WPR,2013.0,Hepatitis B birth dose,YES
+NRU,Naoero,WPR,2018.0,Inactivated polio vaccine,YES
+NRU,Naoero,WPR,,Japanese encephalitis vaccine,NO
+NRU,Naoero,WPR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+NZL,New Zealand,WPR,2000.0,Rotavirus vaccine,YES
+NZL,New Zealand,WPR,2006.0,Pneumococcal conjugate vaccine,YES
+NZL,New Zealand,WPR,2023.0,Human papillomavirus vaccine,YES
+NZL,New Zealand,WPR,2015.0,Hepatitis B birth dose,YES
+NZL,New Zealand,WPR,,Inactivated polio vaccine,NO
+NZL,New Zealand,WPR,2022.0,Japanese encephalitis vaccine,YES
+NZL,New Zealand,WPR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+OMN,Oman,EMR,2003.0,Rotavirus vaccine,YES
+OMN,Oman,EMR,2003.0,Pneumococcal conjugate vaccine,YES
+OMN,Oman,EMR,,Human papillomavirus vaccine,NO
+OMN,Oman,EMR,2013.0,Hepatitis B birth dose,YES
+OMN,Oman,EMR,2019.0,Inactivated polio vaccine,YES
+OMN,Oman,EMR,,"Rubella-containing vaccine, 1st dose",NO
+PAK,Pakistan,EMR,2004.0,Rotavirus vaccine,YES
+PAK,Pakistan,EMR,,Pneumococcal conjugate vaccine,NO
+PAK,Pakistan,EMR,,Human papillomavirus vaccine,NO
+PAK,Pakistan,EMR,2002.0,Hepatitis B birth dose,YES
+PAK,Pakistan,EMR,2002.0,Inactivated polio vaccine,YES
+PAK,Pakistan,EMR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+PAN,Panama,AMR,2022.0,Rotavirus vaccine,YES
+PAN,Panama,AMR,,Pneumococcal conjugate vaccine,NO
+PAN,Panama,AMR,2010.0,Human papillomavirus vaccine,YES
+PAN,Panama,AMR,2004.0,Hepatitis B birth dose,YES
+PAN,Panama,AMR,2004.0,Inactivated polio vaccine,YES
+PAN,Panama,AMR,2016.0,Yellow fever vaccine,YES
+PAN,Panama,AMR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+PER,Peru,AMR,2017.0,Rotavirus vaccine,YES
+PER,Peru,AMR,,Pneumococcal conjugate vaccine,NO
+PER,Peru,AMR,2019.0,Human papillomavirus vaccine,YES
+PER,Peru,AMR,2002.0,Hepatitis B birth dose,YES
+PER,Peru,AMR,2000.0,Inactivated polio vaccine,YES
+PER,Peru,AMR,2012.0,Yellow fever vaccine,YES
+PER,Peru,AMR,,"Rubella-containing vaccine, 1st dose",NO
+PHL,Philippines,WPR,2012.0,Rotavirus vaccine,YES
+PHL,Philippines,WPR,2011.0,Pneumococcal conjugate vaccine,YES
+PHL,Philippines,WPR,2017.0,Human papillomavirus vaccine,YES
+PHL,Philippines,WPR,2014.0,Hepatitis B birth dose,YES
+PHL,Philippines,WPR,2014.0,Inactivated polio vaccine,YES
+PHL,Philippines,WPR,,Japanese encephalitis vaccine,NO
+PHL,Philippines,WPR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+PLW,Palau,WPR,,Rotavirus vaccine,NO
+PLW,Palau,WPR,2017.0,Pneumococcal conjugate vaccine,YES
+PLW,Palau,WPR,,Human papillomavirus vaccine,NO
+PLW,Palau,WPR,2001.0,Hepatitis B birth dose,YES
+PLW,Palau,WPR,,Inactivated polio vaccine,NO
+PLW,Palau,WPR,2010.0,Japanese encephalitis vaccine,YES
+PLW,Palau,WPR,,"Rubella-containing vaccine, 1st dose",NO
+PNG,Papua New Guinea,WPR,2015.0,Rotavirus vaccine,YES
+PNG,Papua New Guinea,WPR,2010.0,Pneumococcal conjugate vaccine,YES
+PNG,Papua New Guinea,WPR,2015.0,Human papillomavirus vaccine,YES
+PNG,Papua New Guinea,WPR,,Hepatitis B birth dose,NO
+PNG,Papua New Guinea,WPR,2014.0,Inactivated polio vaccine,YES
+PNG,Papua New Guinea,WPR,,Japanese encephalitis vaccine,NO
+PNG,Papua New Guinea,WPR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+POL,Poland,EUR,,Rotavirus vaccine,NO
+POL,Poland,EUR,2012.0,Pneumococcal conjugate vaccine,YES
+POL,Poland,EUR,,Human papillomavirus vaccine,NO
+POL,Poland,EUR,2005.0,Hepatitis B birth dose,YES
+POL,Poland,EUR,2008.0,Inactivated polio vaccine,YES
+POL,Poland,EUR,,"Rubella-containing vaccine, 1st dose",NO
+PRI,Puerto Rico,AMR,,Rotavirus vaccine,NO
+PRI,Puerto Rico,AMR,2015.0,Pneumococcal conjugate vaccine,YES
+PRI,Puerto Rico,AMR,2002.0,Human papillomavirus vaccine,YES
+PRI,Puerto Rico,AMR,2022.0,Hepatitis B birth dose,YES
+PRI,Puerto Rico,AMR,2009.0,Inactivated polio vaccine,YES
+PRI,Puerto Rico,AMR,2006.0,Yellow fever vaccine,YES
+PRI,Puerto Rico,AMR,,"Rubella-containing vaccine, 1st dose",NO
+PRK,Democratic People's Republic of Korea,SEAR,,Rotavirus vaccine,NO
+PRK,Democratic People's Republic of Korea,SEAR,2020.0,Pneumococcal conjugate vaccine,YES
+PRK,Democratic People's Republic of Korea,SEAR,2004.0,Human papillomavirus vaccine,YES
+PRK,Democratic People's Republic of Korea,SEAR,2019.0,Hepatitis B birth dose,YES
+PRK,Democratic People's Republic of Korea,SEAR,2003.0,Inactivated polio vaccine,YES
+PRK,Democratic People's Republic of Korea,SEAR,2009.0,Japanese encephalitis vaccine,YES
+PRK,Democratic People's Republic of Korea,SEAR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+PRT,Portugal,EUR,2003.0,Rotavirus vaccine,YES
+PRT,Portugal,EUR,2001.0,Pneumococcal conjugate vaccine,YES
+PRT,Portugal,EUR,,Human papillomavirus vaccine,NO
+PRT,Portugal,EUR,,Hepatitis B birth dose,NO
+PRT,Portugal,EUR,,Inactivated polio vaccine,NO
+PRT,Portugal,EUR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+PRY,Paraguay,AMR,2019.0,Rotavirus vaccine,YES
+PRY,Paraguay,AMR,2004.0,Pneumococcal conjugate vaccine,YES
+PRY,Paraguay,AMR,2004.0,Human papillomavirus vaccine,YES
+PRY,Paraguay,AMR,2017.0,Hepatitis B birth dose,YES
+PRY,Paraguay,AMR,,Inactivated polio vaccine,NO
+PRY,Paraguay,AMR,2005.0,Yellow fever vaccine,YES
+PRY,Paraguay,AMR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,2003.0,Rotavirus vaccine,YES
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,2020.0,Pneumococcal conjugate vaccine,YES
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,2008.0,Human papillomavirus vaccine,YES
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,,Hepatitis B birth dose,NO
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,,Inactivated polio vaccine,NO
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+PYF,French Polynesia,WPR,,Rotavirus vaccine,NO
+PYF,French Polynesia,WPR,,Pneumococcal conjugate vaccine,NO
+PYF,French Polynesia,WPR,2015.0,Human papillomavirus vaccine,YES
+PYF,French Polynesia,WPR,,Hepatitis B birth dose,NO
+PYF,French Polynesia,WPR,,Inactivated polio vaccine,NO
+PYF,French Polynesia,WPR,,Japanese encephalitis vaccine,NO
+PYF,French Polynesia,WPR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+QAT,Qatar,EMR,2001.0,Rotavirus vaccine,YES
+QAT,Qatar,EMR,2011.0,Pneumococcal conjugate vaccine,YES
+QAT,Qatar,EMR,2011.0,Human papillomavirus vaccine,YES
+QAT,Qatar,EMR,2018.0,Hepatitis B birth dose,YES
+QAT,Qatar,EMR,,Inactivated polio vaccine,NO
+QAT,Qatar,EMR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+REU,Reunion,AFR,2004.0,Rotavirus vaccine,YES
+REU,Reunion,AFR,,Pneumococcal conjugate vaccine,NO
+REU,Reunion,AFR,,Human papillomavirus vaccine,NO
+REU,Reunion,AFR,,Hepatitis B birth dose,NO
+REU,Reunion,AFR,,Inactivated polio vaccine,NO
+REU,Reunion,AFR,2019.0,Meningococcal A conjugate vaccine,YES
+REU,Reunion,AFR,2017.0,Yellow fever vaccine,YES
+REU,Reunion,AFR,2006.0,"Rubella-containing vaccine, 1st dose",YES
+ROU,Romania,EUR,,Rotavirus vaccine,NO
+ROU,Romania,EUR,2023.0,Pneumococcal conjugate vaccine,YES
+ROU,Romania,EUR,2013.0,Human papillomavirus vaccine,YES
+ROU,Romania,EUR,2005.0,Hepatitis B birth dose,YES
+ROU,Romania,EUR,2004.0,Inactivated polio vaccine,YES
+ROU,Romania,EUR,,"Rubella-containing vaccine, 1st dose",NO
+RUS,Russian Federation,EUR,2001.0,Rotavirus vaccine,YES
+RUS,Russian Federation,EUR,2020.0,Pneumococcal conjugate vaccine,YES
+RUS,Russian Federation,EUR,2017.0,Human papillomavirus vaccine,YES
+RUS,Russian Federation,EUR,,Hepatitis B birth dose,NO
+RUS,Russian Federation,EUR,2004.0,Inactivated polio vaccine,YES
+RUS,Russian Federation,EUR,,"Rubella-containing vaccine, 1st dose",NO
+RWA,Rwanda,AFR,2007.0,Rotavirus vaccine,YES
+RWA,Rwanda,AFR,,Pneumococcal conjugate vaccine,NO
+RWA,Rwanda,AFR,2016.0,Human papillomavirus vaccine,YES
+RWA,Rwanda,AFR,2008.0,Hepatitis B birth dose,YES
+RWA,Rwanda,AFR,2023.0,Inactivated polio vaccine,YES
+RWA,Rwanda,AFR,2023.0,Meningococcal A conjugate vaccine,YES
+RWA,Rwanda,AFR,2010.0,Yellow fever vaccine,YES
+RWA,Rwanda,AFR,,"Rubella-containing vaccine, 1st dose",NO
+SAU,Saudi Arabia,EMR,,Rotavirus vaccine,NO
+SAU,Saudi Arabia,EMR,2017.0,Pneumococcal conjugate vaccine,YES
+SAU,Saudi Arabia,EMR,2020.0,Human papillomavirus vaccine,YES
+SAU,Saudi Arabia,EMR,2013.0,Hepatitis B birth dose,YES
+SAU,Saudi Arabia,EMR,,Inactivated polio vaccine,NO
+SAU,Saudi Arabia,EMR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+SDN,Sudan,EMR,2021.0,Rotavirus vaccine,YES
+SDN,Sudan,EMR,,Pneumococcal conjugate vaccine,NO
+SDN,Sudan,EMR,2012.0,Human papillomavirus vaccine,YES
+SDN,Sudan,EMR,2008.0,Hepatitis B birth dose,YES
+SDN,Sudan,EMR,2017.0,Inactivated polio vaccine,YES
+SDN,Sudan,EMR,2004.0,"Rubella-containing vaccine, 1st dose",YES
+SDN736,Sudan (former),EMR,2004.0,Rotavirus vaccine,YES
+SDN736,Sudan (former),EMR,2017.0,Pneumococcal conjugate vaccine,YES
+SDN736,Sudan (former),EMR,2020.0,Human papillomavirus vaccine,YES
+SDN736,Sudan (former),EMR,2003.0,Hepatitis B birth dose,YES
+SDN736,Sudan (former),EMR,2023.0,Inactivated polio vaccine,YES
+SDN736,Sudan (former),EMR,2005.0,"Rubella-containing vaccine, 1st dose",YES
+SEN,Senegal,AFR,2022.0,Rotavirus vaccine,YES
+SEN,Senegal,AFR,,Pneumococcal conjugate vaccine,NO
+SEN,Senegal,AFR,,Human papillomavirus vaccine,NO
+SEN,Senegal,AFR,2009.0,Hepatitis B birth dose,YES
+SEN,Senegal,AFR,2011.0,Inactivated polio vaccine,YES
+SEN,Senegal,AFR,2009.0,Meningococcal A conjugate vaccine,YES
+SEN,Senegal,AFR,2011.0,Yellow fever vaccine,YES
+SEN,Senegal,AFR,,"Rubella-containing vaccine, 1st dose",NO
+SGP,Singapore,WPR,,Rotavirus vaccine,NO
+SGP,Singapore,WPR,,Pneumococcal conjugate vaccine,NO
+SGP,Singapore,WPR,2014.0,Human papillomavirus vaccine,YES
+SGP,Singapore,WPR,2006.0,Hepatitis B birth dose,YES
+SGP,Singapore,WPR,2000.0,Inactivated polio vaccine,YES
+SGP,Singapore,WPR,2022.0,Japanese encephalitis vaccine,YES
+SGP,Singapore,WPR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,2020.0,Rotavirus vaccine,YES
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,2002.0,Pneumococcal conjugate vaccine,YES
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,2003.0,Human papillomavirus vaccine,YES
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,,Hepatitis B birth dose,NO
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,2009.0,Inactivated polio vaccine,YES
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,,Meningococcal A conjugate vaccine,NO
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,,Yellow fever vaccine,NO
+SHN,"St Helena, Ascension and Tristan da Cunha",AFR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+SLB,Solomon Islands,WPR,2020.0,Rotavirus vaccine,YES
+SLB,Solomon Islands,WPR,2020.0,Pneumococcal conjugate vaccine,YES
+SLB,Solomon Islands,WPR,2012.0,Human papillomavirus vaccine,YES
+SLB,Solomon Islands,WPR,2018.0,Hepatitis B birth dose,YES
+SLB,Solomon Islands,WPR,,Inactivated polio vaccine,NO
+SLB,Solomon Islands,WPR,,Japanese encephalitis vaccine,NO
+SLB,Solomon Islands,WPR,,"Rubella-containing vaccine, 1st dose",NO
+SLE,Sierra Leone,AFR,2001.0,Rotavirus vaccine,YES
+SLE,Sierra Leone,AFR,2021.0,Pneumococcal conjugate vaccine,YES
+SLE,Sierra Leone,AFR,,Human papillomavirus vaccine,NO
+SLE,Sierra Leone,AFR,,Hepatitis B birth dose,NO
+SLE,Sierra Leone,AFR,,Inactivated polio vaccine,NO
+SLE,Sierra Leone,AFR,2010.0,Meningococcal A conjugate vaccine,YES
+SLE,Sierra Leone,AFR,2002.0,Yellow fever vaccine,YES
+SLE,Sierra Leone,AFR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+SLV,El Salvador,AMR,2012.0,Rotavirus vaccine,YES
+SLV,El Salvador,AMR,2019.0,Pneumococcal conjugate vaccine,YES
+SLV,El Salvador,AMR,,Human papillomavirus vaccine,NO
+SLV,El Salvador,AMR,2018.0,Hepatitis B birth dose,YES
+SLV,El Salvador,AMR,,Inactivated polio vaccine,NO
+SLV,El Salvador,AMR,2006.0,Yellow fever vaccine,YES
+SLV,El Salvador,AMR,2012.0,"Rubella-containing vaccine, 1st dose",YES
+SMR,San Marino,EUR,,Rotavirus vaccine,NO
+SMR,San Marino,EUR,,Pneumococcal conjugate vaccine,NO
+SMR,San Marino,EUR,,Human papillomavirus vaccine,NO
+SMR,San Marino,EUR,,Hepatitis B birth dose,NO
+SMR,San Marino,EUR,,Inactivated polio vaccine,NO
+SMR,San Marino,EUR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+SOM,Somalia,EMR,2015.0,Rotavirus vaccine,YES
+SOM,Somalia,EMR,,Pneumococcal conjugate vaccine,NO
+SOM,Somalia,EMR,2014.0,Human papillomavirus vaccine,YES
+SOM,Somalia,EMR,,Hepatitis B birth dose,NO
+SOM,Somalia,EMR,2009.0,Inactivated polio vaccine,YES
+SOM,Somalia,EMR,,"Rubella-containing vaccine, 1st dose",NO
+SPM,Saint Pierre and Miquelon,AMR,2014.0,Rotavirus vaccine,YES
+SPM,Saint Pierre and Miquelon,AMR,,Pneumococcal conjugate vaccine,NO
+SPM,Saint Pierre and Miquelon,AMR,2023.0,Human papillomavirus vaccine,YES
+SPM,Saint Pierre and Miquelon,AMR,,Hepatitis B birth dose,NO
+SPM,Saint Pierre and Miquelon,AMR,2005.0,Inactivated polio vaccine,YES
+SPM,Saint Pierre and Miquelon,AMR,2014.0,Yellow fever vaccine,YES
+SPM,Saint Pierre and Miquelon,AMR,,"Rubella-containing vaccine, 1st dose",NO
+SRB,Serbia,EUR,2010.0,Rotavirus vaccine,YES
+SRB,Serbia,EUR,2005.0,Pneumococcal conjugate vaccine,YES
+SRB,Serbia,EUR,2014.0,Human papillomavirus vaccine,YES
+SRB,Serbia,EUR,2011.0,Hepatitis B birth dose,YES
+SRB,Serbia,EUR,2019.0,Inactivated polio vaccine,YES
+SRB,Serbia,EUR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+SSD,South Sudan,AFR,2009.0,Rotavirus vaccine,YES
+SSD,South Sudan,AFR,2022.0,Pneumococcal conjugate vaccine,YES
+SSD,South Sudan,AFR,,Human papillomavirus vaccine,NO
+SSD,South Sudan,AFR,2012.0,Hepatitis B birth dose,YES
+SSD,South Sudan,AFR,,Inactivated polio vaccine,NO
+SSD,South Sudan,AFR,,Meningococcal A conjugate vaccine,NO
+SSD,South Sudan,AFR,2020.0,Yellow fever vaccine,YES
+SSD,South Sudan,AFR,2009.0,"Rubella-containing vaccine, 1st dose",YES
+STP,Sao Tome and Principe,AFR,2018.0,Rotavirus vaccine,YES
+STP,Sao Tome and Principe,AFR,2009.0,Pneumococcal conjugate vaccine,YES
+STP,Sao Tome and Principe,AFR,,Human papillomavirus vaccine,NO
+STP,Sao Tome and Principe,AFR,2000.0,Hepatitis B birth dose,YES
+STP,Sao Tome and Principe,AFR,2008.0,Inactivated polio vaccine,YES
+STP,Sao Tome and Principe,AFR,2017.0,Meningococcal A conjugate vaccine,YES
+STP,Sao Tome and Principe,AFR,2002.0,Yellow fever vaccine,YES
+STP,Sao Tome and Principe,AFR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+SUR,Suriname,AMR,2000.0,Rotavirus vaccine,YES
+SUR,Suriname,AMR,,Pneumococcal conjugate vaccine,NO
+SUR,Suriname,AMR,2021.0,Human papillomavirus vaccine,YES
+SUR,Suriname,AMR,2003.0,Hepatitis B birth dose,YES
+SUR,Suriname,AMR,,Inactivated polio vaccine,NO
+SUR,Suriname,AMR,,Yellow fever vaccine,NO
+SUR,Suriname,AMR,,"Rubella-containing vaccine, 1st dose",NO
+SVK,Slovakia,EUR,2003.0,Rotavirus vaccine,YES
+SVK,Slovakia,EUR,2006.0,Pneumococcal conjugate vaccine,YES
+SVK,Slovakia,EUR,2005.0,Human papillomavirus vaccine,YES
+SVK,Slovakia,EUR,2009.0,Hepatitis B birth dose,YES
+SVK,Slovakia,EUR,,Inactivated polio vaccine,NO
+SVK,Slovakia,EUR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+SVN,Slovenia,EUR,2012.0,Rotavirus vaccine,YES
+SVN,Slovenia,EUR,2019.0,Pneumococcal conjugate vaccine,YES
+SVN,Slovenia,EUR,,Human papillomavirus vaccine,NO
+SVN,Slovenia,EUR,2009.0,Hepatitis B birth dose,YES
+SVN,Slovenia,EUR,2021.0,Inactivated polio vaccine,YES
+SVN,Slovenia,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+SWE,Sweden,EUR,2017.0,Rotavirus vaccine,YES
+SWE,Sweden,EUR,2004.0,Pneumococcal conjugate vaccine,YES
+SWE,Sweden,EUR,2011.0,Human papillomavirus vaccine,YES
+SWE,Sweden,EUR,,Hepatitis B birth dose,NO
+SWE,Sweden,EUR,2010.0,Inactivated polio vaccine,YES
+SWE,Sweden,EUR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+SWZ,Eswatini,AFR,,Rotavirus vaccine,NO
+SWZ,Eswatini,AFR,2022.0,Pneumococcal conjugate vaccine,YES
+SWZ,Eswatini,AFR,,Human papillomavirus vaccine,NO
+SWZ,Eswatini,AFR,2016.0,Hepatitis B birth dose,YES
+SWZ,Eswatini,AFR,,Inactivated polio vaccine,NO
+SWZ,Eswatini,AFR,2018.0,Meningococcal A conjugate vaccine,YES
+SWZ,Eswatini,AFR,2005.0,Yellow fever vaccine,YES
+SWZ,Eswatini,AFR,,"Rubella-containing vaccine, 1st dose",NO
+SXM,Sint Maarten (Dutch part),AMR,2023.0,Rotavirus vaccine,YES
+SXM,Sint Maarten (Dutch part),AMR,2013.0,Pneumococcal conjugate vaccine,YES
+SXM,Sint Maarten (Dutch part),AMR,2006.0,Human papillomavirus vaccine,YES
+SXM,Sint Maarten (Dutch part),AMR,2014.0,Hepatitis B birth dose,YES
+SXM,Sint Maarten (Dutch part),AMR,2022.0,Inactivated polio vaccine,YES
+SXM,Sint Maarten (Dutch part),AMR,2003.0,Yellow fever vaccine,YES
+SXM,Sint Maarten (Dutch part),AMR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+SYC,Seychelles,AFR,2016.0,Rotavirus vaccine,YES
+SYC,Seychelles,AFR,2001.0,Pneumococcal conjugate vaccine,YES
+SYC,Seychelles,AFR,2009.0,Human papillomavirus vaccine,YES
+SYC,Seychelles,AFR,2007.0,Hepatitis B birth dose,YES
+SYC,Seychelles,AFR,,Inactivated polio vaccine,NO
+SYC,Seychelles,AFR,2010.0,Meningococcal A conjugate vaccine,YES
+SYC,Seychelles,AFR,,Yellow fever vaccine,NO
+SYC,Seychelles,AFR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+SYR,Syrian Arab Republic,EMR,2018.0,Rotavirus vaccine,YES
+SYR,Syrian Arab Republic,EMR,2001.0,Pneumococcal conjugate vaccine,YES
+SYR,Syrian Arab Republic,EMR,,Human papillomavirus vaccine,NO
+SYR,Syrian Arab Republic,EMR,2014.0,Hepatitis B birth dose,YES
+SYR,Syrian Arab Republic,EMR,2015.0,Inactivated polio vaccine,YES
+SYR,Syrian Arab Republic,EMR,,"Rubella-containing vaccine, 1st dose",NO
+TCA,Turks and Caicos Islands,AMR,2014.0,Rotavirus vaccine,YES
+TCA,Turks and Caicos Islands,AMR,2016.0,Pneumococcal conjugate vaccine,YES
+TCA,Turks and Caicos Islands,AMR,,Human papillomavirus vaccine,NO
+TCA,Turks and Caicos Islands,AMR,2011.0,Hepatitis B birth dose,YES
+TCA,Turks and Caicos Islands,AMR,2023.0,Inactivated polio vaccine,YES
+TCA,Turks and Caicos Islands,AMR,2023.0,Yellow fever vaccine,YES
+TCA,Turks and Caicos Islands,AMR,2010.0,"Rubella-containing vaccine, 1st dose",YES
+TCD,Chad,AFR,2005.0,Rotavirus vaccine,YES
+TCD,Chad,AFR,2015.0,Pneumococcal conjugate vaccine,YES
+TCD,Chad,AFR,,Human papillomavirus vaccine,NO
+TCD,Chad,AFR,,Hepatitis B birth dose,NO
+TCD,Chad,AFR,2010.0,Inactivated polio vaccine,YES
+TCD,Chad,AFR,2023.0,Meningococcal A conjugate vaccine,YES
+TCD,Chad,AFR,,Yellow fever vaccine,NO
+TCD,Chad,AFR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+TGO,Togo,AFR,2004.0,Rotavirus vaccine,YES
+TGO,Togo,AFR,2007.0,Pneumococcal conjugate vaccine,YES
+TGO,Togo,AFR,2006.0,Human papillomavirus vaccine,YES
+TGO,Togo,AFR,2018.0,Hepatitis B birth dose,YES
+TGO,Togo,AFR,,Inactivated polio vaccine,NO
+TGO,Togo,AFR,2003.0,Meningococcal A conjugate vaccine,YES
+TGO,Togo,AFR,,Yellow fever vaccine,NO
+TGO,Togo,AFR,,"Rubella-containing vaccine, 1st dose",NO
+THA,Thailand,SEAR,2018.0,Rotavirus vaccine,YES
+THA,Thailand,SEAR,2008.0,Pneumococcal conjugate vaccine,YES
+THA,Thailand,SEAR,2006.0,Human papillomavirus vaccine,YES
+THA,Thailand,SEAR,2018.0,Hepatitis B birth dose,YES
+THA,Thailand,SEAR,,Inactivated polio vaccine,NO
+THA,Thailand,SEAR,2023.0,Japanese encephalitis vaccine,YES
+THA,Thailand,SEAR,2017.0,"Rubella-containing vaccine, 1st dose",YES
+TJK,Tajikistan,EUR,,Rotavirus vaccine,NO
+TJK,Tajikistan,EUR,2020.0,Pneumococcal conjugate vaccine,YES
+TJK,Tajikistan,EUR,2016.0,Human papillomavirus vaccine,YES
+TJK,Tajikistan,EUR,2019.0,Hepatitis B birth dose,YES
+TJK,Tajikistan,EUR,2005.0,Inactivated polio vaccine,YES
+TJK,Tajikistan,EUR,,"Rubella-containing vaccine, 1st dose",NO
+TKL,Tokelau,WPR,,Rotavirus vaccine,NO
+TKL,Tokelau,WPR,,Pneumococcal conjugate vaccine,NO
+TKL,Tokelau,WPR,2023.0,Human papillomavirus vaccine,YES
+TKL,Tokelau,WPR,2015.0,Hepatitis B birth dose,YES
+TKL,Tokelau,WPR,2013.0,Inactivated polio vaccine,YES
+TKL,Tokelau,WPR,2013.0,Japanese encephalitis vaccine,YES
+TKL,Tokelau,WPR,2015.0,"Rubella-containing vaccine, 1st dose",YES
+TKM,Turkmenistan,EUR,,Rotavirus vaccine,NO
+TKM,Turkmenistan,EUR,2010.0,Pneumococcal conjugate vaccine,YES
+TKM,Turkmenistan,EUR,2007.0,Human papillomavirus vaccine,YES
+TKM,Turkmenistan,EUR,2012.0,Hepatitis B birth dose,YES
+TKM,Turkmenistan,EUR,2020.0,Inactivated polio vaccine,YES
+TKM,Turkmenistan,EUR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+TLS,Timor-Leste,SEAR,2018.0,Rotavirus vaccine,YES
+TLS,Timor-Leste,SEAR,2023.0,Pneumococcal conjugate vaccine,YES
+TLS,Timor-Leste,SEAR,2007.0,Human papillomavirus vaccine,YES
+TLS,Timor-Leste,SEAR,2021.0,Hepatitis B birth dose,YES
+TLS,Timor-Leste,SEAR,2006.0,Inactivated polio vaccine,YES
+TLS,Timor-Leste,SEAR,2022.0,Japanese encephalitis vaccine,YES
+TLS,Timor-Leste,SEAR,2013.0,"Rubella-containing vaccine, 1st dose",YES
+TON,Tonga,WPR,,Rotavirus vaccine,NO
+TON,Tonga,WPR,2012.0,Pneumococcal conjugate vaccine,YES
+TON,Tonga,WPR,2014.0,Human papillomavirus vaccine,YES
+TON,Tonga,WPR,2009.0,Hepatitis B birth dose,YES
+TON,Tonga,WPR,,Inactivated polio vaccine,NO
+TON,Tonga,WPR,,Japanese encephalitis vaccine,NO
+TON,Tonga,WPR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+TTO,Trinidad and Tobago,AMR,2014.0,Rotavirus vaccine,YES
+TTO,Trinidad and Tobago,AMR,2021.0,Pneumococcal conjugate vaccine,YES
+TTO,Trinidad and Tobago,AMR,2021.0,Human papillomavirus vaccine,YES
+TTO,Trinidad and Tobago,AMR,2004.0,Hepatitis B birth dose,YES
+TTO,Trinidad and Tobago,AMR,,Inactivated polio vaccine,NO
+TTO,Trinidad and Tobago,AMR,2023.0,Yellow fever vaccine,YES
+TTO,Trinidad and Tobago,AMR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+TUN,Tunisia,EMR,2022.0,Rotavirus vaccine,YES
+TUN,Tunisia,EMR,2011.0,Pneumococcal conjugate vaccine,YES
+TUN,Tunisia,EMR,2017.0,Human papillomavirus vaccine,YES
+TUN,Tunisia,EMR,2001.0,Hepatitis B birth dose,YES
+TUN,Tunisia,EMR,2008.0,Inactivated polio vaccine,YES
+TUN,Tunisia,EMR,2000.0,"Rubella-containing vaccine, 1st dose",YES
+TUR,Türkiye,EUR,2005.0,Rotavirus vaccine,YES
+TUR,Türkiye,EUR,,Pneumococcal conjugate vaccine,NO
+TUR,Türkiye,EUR,,Human papillomavirus vaccine,NO
+TUR,Türkiye,EUR,2014.0,Hepatitis B birth dose,YES
+TUR,Türkiye,EUR,2020.0,Inactivated polio vaccine,YES
+TUR,Türkiye,EUR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+TUV,Tuvalu,WPR,2004.0,Rotavirus vaccine,YES
+TUV,Tuvalu,WPR,2001.0,Pneumococcal conjugate vaccine,YES
+TUV,Tuvalu,WPR,2003.0,Human papillomavirus vaccine,YES
+TUV,Tuvalu,WPR,2009.0,Hepatitis B birth dose,YES
+TUV,Tuvalu,WPR,,Inactivated polio vaccine,NO
+TUV,Tuvalu,WPR,,Japanese encephalitis vaccine,NO
+TUV,Tuvalu,WPR,2014.0,"Rubella-containing vaccine, 1st dose",YES
+TZA,United Republic of Tanzania,AFR,2022.0,Rotavirus vaccine,YES
+TZA,United Republic of Tanzania,AFR,,Pneumococcal conjugate vaccine,NO
+TZA,United Republic of Tanzania,AFR,,Human papillomavirus vaccine,NO
+TZA,United Republic of Tanzania,AFR,2020.0,Hepatitis B birth dose,YES
+TZA,United Republic of Tanzania,AFR,,Inactivated polio vaccine,NO
+TZA,United Republic of Tanzania,AFR,,Meningococcal A conjugate vaccine,NO
+TZA,United Republic of Tanzania,AFR,,Yellow fever vaccine,NO
+TZA,United Republic of Tanzania,AFR,2018.0,"Rubella-containing vaccine, 1st dose",YES
+UGA,Uganda,AFR,2001.0,Rotavirus vaccine,YES
+UGA,Uganda,AFR,2020.0,Pneumococcal conjugate vaccine,YES
+UGA,Uganda,AFR,2011.0,Human papillomavirus vaccine,YES
+UGA,Uganda,AFR,2010.0,Hepatitis B birth dose,YES
+UGA,Uganda,AFR,2015.0,Inactivated polio vaccine,YES
+UGA,Uganda,AFR,2017.0,Meningococcal A conjugate vaccine,YES
+UGA,Uganda,AFR,,Yellow fever vaccine,NO
+UGA,Uganda,AFR,,"Rubella-containing vaccine, 1st dose",NO
+UKR,Ukraine,EUR,2017.0,Rotavirus vaccine,YES
+UKR,Ukraine,EUR,2012.0,Pneumococcal conjugate vaccine,YES
+UKR,Ukraine,EUR,,Human papillomavirus vaccine,NO
+UKR,Ukraine,EUR,,Hepatitis B birth dose,NO
+UKR,Ukraine,EUR,2023.0,Inactivated polio vaccine,YES
+UKR,Ukraine,EUR,2004.0,"Rubella-containing vaccine, 1st dose",YES
+URY,Uruguay,AMR,2014.0,Rotavirus vaccine,YES
+URY,Uruguay,AMR,,Pneumococcal conjugate vaccine,NO
+URY,Uruguay,AMR,2022.0,Human papillomavirus vaccine,YES
+URY,Uruguay,AMR,,Hepatitis B birth dose,NO
+URY,Uruguay,AMR,2004.0,Inactivated polio vaccine,YES
+URY,Uruguay,AMR,2020.0,Yellow fever vaccine,YES
+URY,Uruguay,AMR,2011.0,"Rubella-containing vaccine, 1st dose",YES
+USA,United States of America,AMR,2022.0,Rotavirus vaccine,YES
+USA,United States of America,AMR,2015.0,Pneumococcal conjugate vaccine,YES
+USA,United States of America,AMR,2023.0,Human papillomavirus vaccine,YES
+USA,United States of America,AMR,2016.0,Hepatitis B birth dose,YES
+USA,United States of America,AMR,2016.0,Inactivated polio vaccine,YES
+USA,United States of America,AMR,2009.0,Yellow fever vaccine,YES
+USA,United States of America,AMR,,"Rubella-containing vaccine, 1st dose",NO
+UZB,Uzbekistan,EUR,2011.0,Rotavirus vaccine,YES
+UZB,Uzbekistan,EUR,2000.0,Pneumococcal conjugate vaccine,YES
+UZB,Uzbekistan,EUR,2020.0,Human papillomavirus vaccine,YES
+UZB,Uzbekistan,EUR,,Hepatitis B birth dose,NO
+UZB,Uzbekistan,EUR,2019.0,Inactivated polio vaccine,YES
+UZB,Uzbekistan,EUR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+VCT,Saint Vincent and the Grenadines,AMR,2008.0,Rotavirus vaccine,YES
+VCT,Saint Vincent and the Grenadines,AMR,2021.0,Pneumococcal conjugate vaccine,YES
+VCT,Saint Vincent and the Grenadines,AMR,2006.0,Human papillomavirus vaccine,YES
+VCT,Saint Vincent and the Grenadines,AMR,2003.0,Hepatitis B birth dose,YES
+VCT,Saint Vincent and the Grenadines,AMR,2013.0,Inactivated polio vaccine,YES
+VCT,Saint Vincent and the Grenadines,AMR,2006.0,Yellow fever vaccine,YES
+VCT,Saint Vincent and the Grenadines,AMR,2016.0,"Rubella-containing vaccine, 1st dose",YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2009.0,Rotavirus vaccine,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2010.0,Pneumococcal conjugate vaccine,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2000.0,Human papillomavirus vaccine,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2007.0,Hepatitis B birth dose,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2015.0,Inactivated polio vaccine,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2010.0,Yellow fever vaccine,YES
+VEN,Venezuela (Bolivarian Republic of),AMR,2005.0,"Rubella-containing vaccine, 1st dose",YES
+VGB,British Virgin Islands,AMR,2018.0,Rotavirus vaccine,YES
+VGB,British Virgin Islands,AMR,2019.0,Pneumococcal conjugate vaccine,YES
+VGB,British Virgin Islands,AMR,2004.0,Human papillomavirus vaccine,YES
+VGB,British Virgin Islands,AMR,2014.0,Hepatitis B birth dose,YES
+VGB,British Virgin Islands,AMR,2018.0,Inactivated polio vaccine,YES
+VGB,British Virgin Islands,AMR,2008.0,Yellow fever vaccine,YES
+VGB,British Virgin Islands,AMR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+VIR,Virgin Islands (USA),AMR,,Rotavirus vaccine,NO
+VIR,Virgin Islands (USA),AMR,2018.0,Pneumococcal conjugate vaccine,YES
+VIR,Virgin Islands (USA),AMR,2005.0,Human papillomavirus vaccine,YES
+VIR,Virgin Islands (USA),AMR,2018.0,Hepatitis B birth dose,YES
+VIR,Virgin Islands (USA),AMR,,Inactivated polio vaccine,NO
+VIR,Virgin Islands (USA),AMR,2006.0,Yellow fever vaccine,YES
+VIR,Virgin Islands (USA),AMR,,"Rubella-containing vaccine, 1st dose",NO
+VNM,Viet Nam,WPR,2022.0,Rotavirus vaccine,YES
+VNM,Viet Nam,WPR,2023.0,Pneumococcal conjugate vaccine,YES
+VNM,Viet Nam,WPR,2013.0,Human papillomavirus vaccine,YES
+VNM,Viet Nam,WPR,2002.0,Hepatitis B birth dose,YES
+VNM,Viet Nam,WPR,2023.0,Inactivated polio vaccine,YES
+VNM,Viet Nam,WPR,2002.0,Japanese encephalitis vaccine,YES
+VNM,Viet Nam,WPR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+VUT,Vanuatu,WPR,2003.0,Rotavirus vaccine,YES
+VUT,Vanuatu,WPR,2023.0,Pneumococcal conjugate vaccine,YES
+VUT,Vanuatu,WPR,2004.0,Human papillomavirus vaccine,YES
+VUT,Vanuatu,WPR,,Hepatitis B birth dose,NO
+VUT,Vanuatu,WPR,2001.0,Inactivated polio vaccine,YES
+VUT,Vanuatu,WPR,2001.0,Japanese encephalitis vaccine,YES
+VUT,Vanuatu,WPR,2002.0,"Rubella-containing vaccine, 1st dose",YES
+WLF,Wallis and Futuna Islands,WPR,,Rotavirus vaccine,NO
+WLF,Wallis and Futuna Islands,WPR,2023.0,Pneumococcal conjugate vaccine,YES
+WLF,Wallis and Futuna Islands,WPR,2023.0,Human papillomavirus vaccine,YES
+WLF,Wallis and Futuna Islands,WPR,2017.0,Hepatitis B birth dose,YES
+WLF,Wallis and Futuna Islands,WPR,2020.0,Inactivated polio vaccine,YES
+WLF,Wallis and Futuna Islands,WPR,2009.0,Japanese encephalitis vaccine,YES
+WLF,Wallis and Futuna Islands,WPR,2020.0,"Rubella-containing vaccine, 1st dose",YES
+WSM,Samoa,WPR,2021.0,Rotavirus vaccine,YES
+WSM,Samoa,WPR,2023.0,Pneumococcal conjugate vaccine,YES
+WSM,Samoa,WPR,2004.0,Human papillomavirus vaccine,YES
+WSM,Samoa,WPR,2000.0,Hepatitis B birth dose,YES
+WSM,Samoa,WPR,2017.0,Inactivated polio vaccine,YES
+WSM,Samoa,WPR,2016.0,Japanese encephalitis vaccine,YES
+WSM,Samoa,WPR,2008.0,"Rubella-containing vaccine, 1st dose",YES
+YEM,Yemen,EMR,2006.0,Rotavirus vaccine,YES
+YEM,Yemen,EMR,2007.0,Pneumococcal conjugate vaccine,YES
+YEM,Yemen,EMR,2017.0,Human papillomavirus vaccine,YES
+YEM,Yemen,EMR,2002.0,Hepatitis B birth dose,YES
+YEM,Yemen,EMR,2020.0,Inactivated polio vaccine,YES
+YEM,Yemen,EMR,2001.0,"Rubella-containing vaccine, 1st dose",YES
+ZAF,South Africa,AFR,2021.0,Rotavirus vaccine,YES
+ZAF,South Africa,AFR,2013.0,Pneumococcal conjugate vaccine,YES
+ZAF,South Africa,AFR,2011.0,Human papillomavirus vaccine,YES
+ZAF,South Africa,AFR,2016.0,Hepatitis B birth dose,YES
+ZAF,South Africa,AFR,2017.0,Inactivated polio vaccine,YES
+ZAF,South Africa,AFR,,Meningococcal A conjugate vaccine,NO
+ZAF,South Africa,AFR,,Yellow fever vaccine,NO
+ZAF,South Africa,AFR,2003.0,"Rubella-containing vaccine, 1st dose",YES
+ZMB,Zambia,AFR,2017.0,Rotavirus vaccine,YES
+ZMB,Zambia,AFR,,Pneumococcal conjugate vaccine,NO
+ZMB,Zambia,AFR,2012.0,Human papillomavirus vaccine,YES
+ZMB,Zambia,AFR,2003.0,Hepatitis B birth dose,YES
+ZMB,Zambia,AFR,2018.0,Inactivated polio vaccine,YES
+ZMB,Zambia,AFR,2004.0,Meningococcal A conjugate vaccine,YES
+ZMB,Zambia,AFR,2001.0,Yellow fever vaccine,YES
+ZMB,Zambia,AFR,2022.0,"Rubella-containing vaccine, 1st dose",YES
+ZWE,Zimbabwe,AFR,2022.0,Rotavirus vaccine,YES
+ZWE,Zimbabwe,AFR,2002.0,Pneumococcal conjugate vaccine,YES
+ZWE,Zimbabwe,AFR,2019.0,Human papillomavirus vaccine,YES
+ZWE,Zimbabwe,AFR,2000.0,Hepatitis B birth dose,YES
+ZWE,Zimbabwe,AFR,2021.0,Inactivated polio vaccine,YES
+ZWE,Zimbabwe,AFR,2009.0,Meningococcal A conjugate vaccine,YES
+ZWE,Zimbabwe,AFR,2008.0,Yellow fever vaccine,YES
+ZWE,Zimbabwe,AFR,2007.0,"Rubella-containing vaccine, 1st dose",YES

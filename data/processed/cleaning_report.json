@@ -1,0 +1,46 @@
+{
+  "coverage": {
+    "rows_before": 37749,
+    "duplicate_rows_removed": 0,
+    "invalid_year_rows_removed": 0,
+    "invalid_coverage_rows_removed": 0,
+    "unknown_country_code_rows_removed": 0,
+    "rows_after": 37749
+  },
+  "reported_cases": {
+    "rows_before": 64860,
+    "duplicate_rows_removed": 0,
+    "invalid_year_rows_removed": 0,
+    "negative_case_rows_removed": 0,
+    "missing_cases_retained_as_null": 10135,
+    "unknown_country_code_rows_removed": 0,
+    "rows_after": 64860
+  },
+  "population": {
+    "rows_before": 9710,
+    "duplicate_rows_removed": 0,
+    "non_positive_population_rows_removed": 0,
+    "unknown_country_code_rows_removed": 0,
+    "rows_after": 9710
+  },
+  "incidence_rate": {
+    "rows_before": 64860,
+    "rows_dropped_no_population_match": 8612,
+    "rows_dropped_no_case_count": 7596,
+    "rows_after": 48652
+  },
+  "vaccine_introduction": {
+    "rows_before": 1565,
+    "duplicate_rows_removed": 0,
+    "invalid_who_region_rows_removed": 0,
+    "inconsistent_intro_yes_no_year_removed": 0,
+    "rows_after": 1565
+  },
+  "vaccine_schedule": {
+    "rows_before": 1824,
+    "duplicate_rows_removed": 0,
+    "invalid_who_region_rows_removed": 0,
+    "non_positive_rounds_removed": 0,
+    "rows_after": 1824
+  }
+}
